@@ -1,7 +1,4 @@
 # Validation Rules
 
-Blocking:
-- Missing required fields
-- Duplicate primary keys
-- Invalid foreign keys
-- Confidence outside 1–5
+Blockers: missing required fields, duplicate keys, invalid foreign keys.
+Warnings: unknown owner, missing enrichment.

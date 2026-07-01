@@ -1,12 +1,9 @@
-# UWRDB – Universal Whisky Reference Database
-
-Project: **Aqua Vitae – Magnum Opus**
-
-This repository treats Excel as an export, not the source of truth.
+# UWRDB
 
 Run:
 
 ```bash
 pip install -r requirements.txt
+python scripts/import_swa_register.py
 python scripts/build.py
 ```

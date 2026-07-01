@@ -1,4 +1,4 @@
-Build complete
+Imported 3 records
 
 Spreadsheet runtime warmup failed during python startup
 Traceback (most recent call last):

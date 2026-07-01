@@ -1,3 +1,1 @@
 evidence_id,entity_type,entity_id,field_name,field_value,source_id,confidence,verified_date,notes
-AVE-000001,distillery,AVD-ARDBEG,official_name,Ardbeg,AVS-OFFICIAL-DISTILLERY-WEBSITE,4,2026-07-01,Seed example
-AVE-000002,distillery,AVD-CAOL-ILA,owner_id,AVO-DIAGEO,AVS-OWNER-WEBSITE,4,2026-07-01,Seed example

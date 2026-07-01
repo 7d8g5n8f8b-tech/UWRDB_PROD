@@ -1,3 +1,4 @@
 distillery_id,official_name,preferred_name,region_id,type,status,founded_year,owner_id,parent_company_id,website,address,postcode,latitude,longitude,notes
-AVD-ARDBEG,Ardbeg,Ardbeg,AVR-ISLAY,Malt,Operating,1815,AVO-ARDBEG,AVP-LVMH,https://www.ardbeg.com,,,,,Seed record; verify before Gold
-AVD-CAOL-ILA,Caol Ila,Caol Ila,AVR-ISLAY,Malt,Operating,1846,AVO-DIAGEO,AVP-DIAGEO,https://www.malts.com,,,,,Seed record; verify before Gold
+AVD-ARDBEG,Ardbeg,Ardbeg,AVR-ISLAY,Malt,Operating,,AVO-UNKNOWN,AVP-UNKNOWN,,,,,,Imported from raw operating register; enrichment pending verification.
+AVD-CAOL-ILA,Caol Ila,Caol Ila,AVR-ISLAY,Malt,Operating,,AVO-UNKNOWN,AVP-UNKNOWN,,,,,,Imported from raw operating register; enrichment pending verification.
+AVD-CAMERONBRIDGE,Cameronbridge,Cameronbridge,AVR-LOWLANDS,Grain,Operating,,AVO-UNKNOWN,AVP-UNKNOWN,,,,,,Imported from raw operating register; enrichment pending verification.

@@ -1,15 +1,8 @@
-# UWRDB QA Report
+# QA Report
 
-Generated: 2026-07-01T12:14:36.362897Z
+Generated: 2026-07-01T12:24:19.906157+00:00
 
-## Counts
-- region: 7
-- parent_company: 3
-- owner: 3
-- source: 3
-- distillery: 2
-- brand: 2
-- evidence: 2
+- region: 8\n- parent_company: 3\n- owner: 3\n- source: 2\n- distillery: 3\n- brand: 0\n- evidence: 0
 
-## Issues
-No blocking QA issues found.
+Blockers: 0
+Warnings: 3

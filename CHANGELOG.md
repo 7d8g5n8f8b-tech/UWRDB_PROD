@@ -1,7 +1,6 @@
 # Changelog
 
-## 0.3.0
-- Added reproducible build script.
-- Added SQLite, CSV, and Excel exports.
-- Added QA report generation.
-- Added GitHub Actions workflow.
+## 0.4.0
+- Added SWA import pipeline.
+- Added staging review file.
+- Added QA issue CSV.

@@ -1,0 +1,4 @@
+distillery_id,official_name,preferred_name,region_id,type,status,founded_year,owner_id,parent_company_id,website,address,postcode,latitude,longitude,notes,source_note
+AVD-ARDBEG,Ardbeg,Ardbeg,AVR-ISLAY,Malt,Operating,,AVO-UNKNOWN,AVP-UNKNOWN,,,,,,Imported from raw operating register; enrichment pending verification.,Seed example; replace/extend with official SWA register rows
+AVD-CAOL-ILA,Caol Ila,Caol Ila,AVR-ISLAY,Malt,Operating,,AVO-UNKNOWN,AVP-UNKNOWN,,,,,,Imported from raw operating register; enrichment pending verification.,Seed example; replace/extend with official SWA register rows
+AVD-CAMERONBRIDGE,Cameronbridge,Cameronbridge,AVR-LOWLANDS,Grain,Operating,,AVO-UNKNOWN,AVP-UNKNOWN,,,,,,Imported from raw operating register; enrichment pending verification.,Seed example; replace/extend with official SWA register rows
