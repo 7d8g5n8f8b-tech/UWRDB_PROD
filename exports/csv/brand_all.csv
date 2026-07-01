@@ -1,0 +1,146 @@
+﻿BrandID,DistilleryID,Distillery Name,Brand,BrandType,Peated,Website,ReleaseStatus,SourceFile,Notes
+BRD-SPY-0001,DIST-SPY-0028,Glenfiddich,Glenfiddich,Single malt brand,No,https://www.glenfiddich.com,Research RC1,SWRD_Speyside_v0_1_brand_rows_raw.csv,
+BRD-SPY-0002,DIST-SPY-0028,Glenfiddich,Glenfiddich 15 Year Old Solera,No,https://www.glenfiddich.com,5,Research RC1,SWRD_Speyside_v0_1_brand_rows_raw.csv,
+BRD-SPY-0003,DIST-SPY-0029,The Glenlivet,The Glenlivet Founder’s Reserve,No,https://www.theglenlivet.com,5,Research RC1,SWRD_Speyside_v0_1_brand_rows_raw.csv,
+BRD-SPY-0004,DIST-SPY-0029,The Glenlivet,The Glenlivet 12 Year Old,No,https://www.theglenlivet.com,5,Research RC1,SWRD_Speyside_v0_1_brand_rows_raw.csv,
+BRD-SPY-0005,DIST-SPY-0038,The Macallan,The Macallan Double Cask,No,https://www.themacallan.com,5,Research RC1,SWRD_Speyside_v0_1_brand_rows_raw.csv,
+BRD-SPY-0006,DIST-SPY-0038,The Macallan,The Macallan Sherry Oak,No,https://www.themacallan.com,5,Research RC1,SWRD_Speyside_v0_1_brand_rows_raw.csv,
+BRD-SPY-0007,DIST-SPY-0008,Benriach,Benriach The Original Ten,No,https://www.benriachdistillery.com,4,Research RC1,SWRD_Speyside_v0_1_brand_rows_raw.csv,
+BRD-SPY-0008,DIST-SPY-0008,Benriach,Benriach The Smoky Ten,Yes,https://www.benriachdistillery.com,4,Research RC1,SWRD_Speyside_v0_1_brand_rows_raw.csv,
+BRD-SPY-0009,DIST-SPY-0018,Dufftown,The Singleton of Dufftown,No,https://www.malts.com,4,Research RC1,SWRD_Speyside_v0_1_brand_rows_raw.csv,
+BRD-SPY-0010,DIST-SPY-0026,Glendullan,The Singleton of Glendullan,No,https://www.malts.com,4,Research RC1,SWRD_Speyside_v0_1_brand_rows_raw.csv,
+BRD-SPY-0011,DIST-SPY-0044,The Speyside Distillery,SPEY,No,https://speysidedistillery.co.uk,4,Research RC1,SWRD_Speyside_v0_1_brand_rows_raw.csv,
+AVB-GLEN-SCOTIA,AVD-GLEN-SCOTIA,,Glen Scotia,Single malt brand,Partial,https://www.glenscotia.com,Gold Candidate,Campbeltown Gold v0.1,
+AVB-SPRINGBANK,AVD-SPRINGBANK,,Springbank,Single malt brand,Partial,https://www.springbank.scot,Gold Candidate,Campbeltown Gold v0.1,
+AVB-LONGROW,AVD-SPRINGBANK,,Longrow,Single malt brand,Yes,https://www.springbank.scot,Gold Candidate,Campbeltown Gold v0.1,Produced at Springbank Distillery.
+AVB-HAZELBURN,AVD-SPRINGBANK,,Hazelburn,Single malt brand,No,https://www.springbank.scot,Gold Candidate,Campbeltown Gold v0.1,Produced at Springbank Distillery.
+AVB-KILKERRAN,AVD-GLENGYLE,,Kilkerran,Single malt brand,Partial,https://kilkerran.scot,Gold Candidate,Campbeltown Gold v0.1,Produced at Glengyle Distillery.
+DIST-HLD-0040,DIST-HLD-0040,Glencadam,10 Year Old,Brand Seed,,,Research RC1,SWRD_Highlands_v0_1_Batch6_QA.csv,
+DIST-HLD-0041,DIST-HLD-0041,Tomatin,Legacy,Brand Seed,,,Research RC1,SWRD_Highlands_v0_1_Batch6_QA.csv,
+DIST-ISL-0014,DIST-ISL-0014,Port Charlotte,Port Charlotte,Brand (linked),Yes,https://www.bruichladdich.com,Research RC1,SWRD_Islay_v0_1_Batch3.csv,Linked to Bruichladdich distillery.
+DIST-ISL-0015,DIST-ISL-0015,Octomore,Octomore,Brand (linked),Yes,https://www.bruichladdich.com,Research RC1,SWRD_Islay_v0_1_Batch3.csv,Linked to Bruichladdich distillery.
+DIST-ISL-0016,DIST-ISL-0016,Bunnahabhain,Staoisha,Brand (linked),Yes,https://www.bunnahabhain.com,Research RC1,SWRD_Islay_v0_1_Batch3.csv,Peated production line.
+DIST-ISL-0017,DIST-ISL-0017,Ardbeg,Uigeadail,Brand (linked),Yes,https://www.ardbeg.com,Research RC1,SWRD_Islay_v0_1_Batch3.csv,Core expression seed.
+DIST-ISL-0018,DIST-ISL-0018,Ardbeg,Corryvreckan,Brand (linked),Yes,https://www.ardbeg.com,Research RC1,SWRD_Islay_v0_1_Batch3.csv,Core expression seed.
+DIST-ISL-0020,DIST-ISL-0020,Ardbeg,Ardbeg Ten,Brand Seed,Yes,https://www.ardbeg.com,Research RC1,SWRD_Islay_v0_1_Batch4.csv,Core expression.
+DIST-ISL-0021,DIST-ISL-0021,Laphroaig,Laphroaig 10,Brand Seed,Yes,https://www.laphroaig.com,Research RC1,SWRD_Islay_v0_1_Batch4.csv,Core expression.
+DIST-ISL-0022,DIST-ISL-0022,Lagavulin,Lagavulin 16,Brand Seed,Yes,https://www.malts.com,Research RC1,SWRD_Islay_v0_1_Batch4.csv,Core expression.
+BRAND-SPY-0001,DIST-SPY-0001,Aberlour,Aberlour,Primary brand,Partial,https://www.aberlour.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0002,DIST-SPY-0002,Allt a’ Bhainne,Allt a’ Bhainne,Primary brand,No,,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0003,DIST-SPY-0003,Auchroisk,Auchroisk,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0004,DIST-SPY-0004,Aultmore,Aultmore,Primary brand,No,https://www.aultmore.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0005,DIST-SPY-0005,Ballindalloch,Ballindalloch,Primary brand,No,https://www.ballindallochdistillery.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0006,DIST-SPY-0006,Balmenach,Balmenach,Primary brand,No,https://www.interbevgroup.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0007,DIST-SPY-0007,The Balvenie,The Balvenie,Primary brand,No,https://www.thebalvenie.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0008,DIST-SPY-0008,Benriach,Benriach,Primary brand,Partial,https://www.benriachdistillery.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0009,DIST-SPY-0009,Benrinnes,Benrinnes,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0010,DIST-SPY-0010,Benromach,Benromach,Primary brand,Partial,https://www.benromach.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0011,DIST-SPY-0011,Braeval,Braeval,Primary brand,No,,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0012,DIST-SPY-0012,The Cairn,The Cairn,Primary brand,,Yes,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0013,DIST-SPY-0013,Cardhu,Cardhu,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0014,DIST-SPY-0014,Cragganmore,Cragganmore,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0015,DIST-SPY-0015,Craigellachie,Craigellachie,Primary brand,No,https://www.craigellachie.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0016,DIST-SPY-0016,Dailuaine,Dailuaine,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0017,DIST-SPY-0017,Dalmunach,Dalmunach,Primary brand,No,,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0018,DIST-SPY-0018,Dufftown,Singleton of Dufftown,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0019,DIST-SPY-0019,GlenAllachie,GlenAllachie,Primary brand,Partial,https://theglenallachie.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0020,DIST-SPY-0020,Glen Elgin,Glen Elgin,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0021,DIST-SPY-0021,Glen Grant,Glen Grant,Primary brand,No,https://www.glengrant.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0022,DIST-SPY-0022,Glen Keith,Glen Keith,Primary brand,No,,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0023,DIST-SPY-0023,Glen Moray,Glen Moray,Primary brand,No,https://www.glenmoray.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0024,DIST-SPY-0024,Glen Spey,Glen Spey,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0025,DIST-SPY-0025,Glenburgie,Glenburgie,Primary brand,No,,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0026,DIST-SPY-0026,Glendullan,Singleton of Glendullan,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0027,DIST-SPY-0027,Glenfarclas,Glenfarclas,Primary brand,Partial,https://www.glenfarclas.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0029,DIST-SPY-0029,The Glenlivet,The Glenlivet,Primary brand,No,https://www.theglenlivet.com/en-gb/,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0030,DIST-SPY-0030,Glenlossie,Glenlossie,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0031,DIST-SPY-0031,The Glenrothes,The Glenrothes,Primary brand,No,https://www.theglenrothes.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0032,DIST-SPY-0032,Glentauchers,Glentauchers,Primary brand,No,,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0033,DIST-SPY-0033,Inchgower,Inchgower,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0034,DIST-SPY-0034,Kininvie,Kininvie,Primary brand,No,,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0035,DIST-SPY-0035,Knockando,Knockando,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0036,DIST-SPY-0036,Linkwood,Linkwood,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0037,DIST-SPY-0037,Longmorn,Longmorn,Primary brand,No,https://www.longmorn.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0038,DIST-SPY-0038,The Macallan,The Macallan,Primary brand,No,https://www.themacallan.com/en/experience-the-macallan/distillery,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0039,DIST-SPY-0039,Mannochmore,Mannochmore,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0040,DIST-SPY-0040,Miltonduff,Miltonduff,Primary brand,No,,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0041,DIST-SPY-0041,Mortlach,Mortlach,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0042,DIST-SPY-0042,Roseisle,Roseisle,Primary brand,Variable,,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0043,DIST-SPY-0043,Speyburn,Speyburn,Primary brand,No,https://www.speyburn.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0045,DIST-SPY-0045,Strathisla,Strathisla,Primary brand,No,https://www.chivas.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0046,DIST-SPY-0046,Strathmill,Strathmill,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0047,DIST-SPY-0047,Tamdhu,Tamdhu,Primary brand,No,https://www.tamdhu.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0048,DIST-SPY-0048,Tamnavulin,Tamnavulin,Primary brand,No,https://www.tamnavulin.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0049,DIST-SPY-0049,Tomintoul,Tomintoul,Primary brand,No,https://www.tomintoulwhisky.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0050,DIST-SPY-0050,Tormore,Tormore,Primary brand,No,https://www.tormoredistillery.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0051,DIST-SPY-0051,Dunphail,Dunphail,Primary brand,Variable,https://www.dunphaildistillery.com,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-SPY-0052,DIST-SPY-0052,The Cabrach,The Cabrach,Primary brand,No,https://www.thecabrachtrust.org,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Primary brand from distillery flat row.
+BRAND-HLD-0001,DIST-HLD-0001,Ardmore,Ardmore,Primary brand,Partial,https://www.ardmoredistillery.com,Research RC1,SWRD_Highlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-HLD-0002,DIST-HLD-0002,Ardnamurchan,Ardnamurchan,Primary brand,Variable,https://ardnamurchandistillery.com,Research RC1,SWRD_Highlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-HLD-0003,DIST-HLD-0003,Balblair,Balblair,Primary brand,No,https://www.balblair.com,Research RC1,SWRD_Highlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-HLD-0004,DIST-HLD-0004,Blair Athol,Blair Athol,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Highlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-HLD-0005,DIST-HLD-0005,Clynelish,Clynelish,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Highlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-HLD-0006,DIST-HLD-0006,Dalmore,Dalmore,Primary brand,No,https://www.thedalmore.com,Research RC1,SWRD_Highlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-HLD-0007,DIST-HLD-0007,Dalwhinnie,Dalwhinnie,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Highlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-HLD-0008,DIST-HLD-0008,Deanston,Deanston,Primary brand,No,https://www.deanstonmalt.com,Research RC1,SWRD_Highlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-HLD-0009,DIST-HLD-0009,Edradour,Edradour,Primary brand,Partial,https://edradour.com,Research RC1,SWRD_Highlands_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-HLD-0010,DIST-HLD-0010,Fettercairn,Fettercairn,Primary brand,No,https://www.fettercairnwhisky.com,Research RC1,SWRD_Highlands_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-HLD-0011,DIST-HLD-0011,Glencadam,Glencadam,Primary brand,No,https://www.glencadamwhisky.com,Research RC1,SWRD_Highlands_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-HLD-0012,DIST-HLD-0012,Glen Garioch,Glen Garioch,Primary brand,Partial,https://www.glengarioch.com,Research RC1,SWRD_Highlands_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-HLD-0013,DIST-HLD-0013,Glen Ord,The Singleton of Glen Ord,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Highlands_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-HLD-0014,DIST-HLD-0014,Glenmorangie,Glenmorangie,Primary brand,No,https://www.glenmorangie.com,Research RC1,SWRD_Highlands_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-HLD-0015,DIST-HLD-0015,Loch Lomond,Loch Lomond,Primary brand,Variable,https://www.lochlomondwhiskies.com,Research RC1,SWRD_Highlands_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-HLD-0016,DIST-HLD-0016,Oban,Oban,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Highlands_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-HLD-0017,DIST-HLD-0017,Pulteney,Old Pulteney,Primary brand,No,https://www.oldpulteney.com,Research RC1,SWRD_Highlands_v0_1_Batch3.csv,Primary brand from distillery flat row.
+BRAND-HLD-0018,DIST-HLD-0018,Royal Brackla,Royal Brackla,Primary brand,No,https://www.royalbrackla.com,Research RC1,SWRD_Highlands_v0_1_Batch3.csv,Primary brand from distillery flat row.
+BRAND-HLD-0019,DIST-HLD-0019,Royal Lochnagar,Royal Lochnagar,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Highlands_v0_1_Batch3.csv,Primary brand from distillery flat row.
+BRAND-HLD-0020,DIST-HLD-0020,Teaninich,Teaninich,Primary brand,No,https://www.malts.com,Research RC1,SWRD_Highlands_v0_1_Batch3.csv,Primary brand from distillery flat row.
+BRAND-HLD-0021,DIST-HLD-0021,Tomatin,Tomatin,Primary brand,Partial,https://tomatin.com,Research RC1,SWRD_Highlands_v0_1_Batch3.csv,Primary brand from distillery flat row.
+BRAND-HLD-0022,DIST-HLD-0022,Tullibardine,Tullibardine,Primary brand,No,https://www.tullibardine.com,Research RC1,SWRD_Highlands_v0_1_Batch3.csv,Primary brand from distillery flat row.
+BRAND-HLD-0023,DIST-HLD-0023,Wolfburn,Wolfburn,Primary brand,No,https://wolfburn.com,Research RC1,SWRD_Highlands_v0_1_Batch3.csv,Primary brand from distillery flat row.
+BRAND-HLD-0024,DIST-HLD-0024,Torabhaig,Torabhaig,Primary brand,Yes,https://torabhaig.com,Research RC1,SWRD_Highlands_v0_1_Batch3.csv,Primary brand from distillery flat row.
+BRAND-HLD-0025,DIST-HLD-0025,AnCnoc (Knockdhu),anCnoc,Primary brand,Partial,https://ancnoc.com,Research RC1,SWRD_Highlands_v0_1_Batch4.csv,Primary brand from distillery flat row.
+BRAND-HLD-0026,DIST-HLD-0026,Ben Nevis,Ben Nevis,Primary brand,Partial,https://www.bennevisdistillery.com,Research RC1,SWRD_Highlands_v0_1_Batch4.csv,Primary brand from distillery flat row.
+BRAND-HLD-0028,DIST-HLD-0028,Dornoch,Dornoch,Primary brand,Yes,,Research RC1,SWRD_Highlands_v0_1_Batch4.csv,Primary brand from distillery flat row.
+BRAND-HLD-0029,DIST-HLD-0029,Nc'nean,Nc'nean,Primary brand,No,https://ncnean.com,Research RC1,SWRD_Highlands_v0_1_Batch4.csv,Primary brand from distillery flat row.
+BRAND-HLD-0030,DIST-HLD-0030,Uile-bheist,Uile-bheist,Primary brand,Variable,https://www.uilebheist.com,Research RC1,SWRD_Highlands_v0_1_Batch4.csv,Primary brand from distillery flat row.
+BRAND-HLD-0031,DIST-HLD-0031,Glenglassaugh,Glenglassaugh,Primary brand,Partial,https://www.glenglassaugh.com,Research RC1,SWRD_Highlands_v0_1_Batch5.csv,Primary brand from distillery flat row.
+BRAND-HLD-0032,DIST-HLD-0032,Glenturret,The Glenturret,Primary brand,Partial,https://theglenturret.com,Research RC1,SWRD_Highlands_v0_1_Batch5.csv,Primary brand from distillery flat row.
+BRAND-HLD-0033,DIST-HLD-0033,Lochlea,Lochlea,Primary brand,No,https://www.lochleadistillery.com,Research RC1,SWRD_Highlands_v0_1_Batch5.csv,Primary brand from distillery flat row.
+BRAND-HLD-0034,DIST-HLD-0034,Arbikie,Arbikie,Primary brand,No,https://arbikie.com,Research RC1,SWRD_Highlands_v0_1_Batch5.csv,Primary brand from distillery flat row.
+BRAND-HLD-0035,DIST-HLD-0035,Lindores Abbey,Lindores Abbey,Primary brand,No,https://lindoresabbeydistillery.com,Research RC1,SWRD_Highlands_v0_1_Batch5.csv,Primary brand from distillery flat row.
+BRAND-HLD-0036,DIST-HLD-0036,GlenWyvis,GlenWyvis,Primary brand,No,https://glenwyvis.com,Research RC1,SWRD_Highlands_v0_1_Batch5.csv,Primary brand from distillery flat row.
+BRAND-HLD-0038,DIST-HLD-0038,Brora,Brora,Primary brand,Partial,https://www.brora.com,Research RC1,SWRD_Highlands_v0_1_Batch6_QA.csv,Primary brand from distillery flat row.
+BRAND-ISL-0001,DIST-ISL-0001,Ardbeg,Ardbeg,Primary brand,Yes,https://www.ardbeg.com,Research RC1,SWRD_Islay_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-ISL-0002,DIST-ISL-0002,Ardnahoe,Ardnahoe,Primary brand,Yes,https://ardnahoedistillery.com,Research RC1,SWRD_Islay_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-ISL-0003,DIST-ISL-0003,Bowmore,Bowmore,Primary brand,Yes,https://www.bowmore.com,Research RC1,SWRD_Islay_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-ISL-0004,DIST-ISL-0004,Bruichladdich,Bruichladdich,Primary brand,Variable,https://www.bruichladdich.com,Research RC1,SWRD_Islay_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-ISL-0005,DIST-ISL-0005,Bunnahabhain,Bunnahabhain,Primary brand,Partial,https://www.bunnahabhain.com,Research RC1,SWRD_Islay_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-ISL-0006,DIST-ISL-0006,Caol Ila,Caol Ila,Primary brand,Yes,https://www.malts.com,Research RC1,SWRD_Islay_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-ISL-0007,DIST-ISL-0007,Kilchoman,Kilchoman,Primary brand,Yes,https://www.kilchomandistillery.com,Research RC1,SWRD_Islay_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-ISL-0008,DIST-ISL-0008,Lagavulin,Lagavulin,Primary brand,Yes,https://www.malts.com,Research RC1,SWRD_Islay_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-ISL-0009,DIST-ISL-0009,Laphroaig,Laphroaig,Primary brand,Yes,https://www.laphroaig.com,Research RC1,SWRD_Islay_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-ISL-0010,DIST-ISL-0010,Port Ellen,Port Ellen,Primary brand,Yes,https://www.portellen.com,Research RC1,SWRD_Islay_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-ISL-0011,DIST-ISL-0011,Portintruan,Portintruan,Primary brand,Yes,https://elixirdistillers.com,Research RC1,SWRD_Islay_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-ISL-0012,DIST-ISL-0012,Lagg,Lagg,Primary brand,Yes,https://www.laggwhisky.com,Research RC1,SWRD_Islay_v0_1_Batch2.csv,Primary brand from distillery flat row.
+BRAND-ISD-0001,DIST-ISD-0001,Arran,Arran,Primary brand,No,https://www.arranwhisky.com,Research RC1,SWRD_Islands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-ISD-0002,DIST-ISD-0002,Lagg,Lagg,Primary brand,Yes,https://www.laggwhisky.com,Research RC1,SWRD_Islands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-ISD-0003,DIST-ISD-0003,Torabhaig,Torabhaig,Primary brand,Yes,https://torabhaig.com,Research RC1,SWRD_Islands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-ISD-0004,DIST-ISD-0004,Talisker,Talisker,Primary brand,Partial,https://www.malts.com,Research RC1,SWRD_Islands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-ISD-0005,DIST-ISD-0005,Highland Park,Highland Park,Primary brand,Partial,https://www.highlandparkwhisky.com,Research RC1,SWRD_Islands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-ISD-0006,DIST-ISD-0006,Scapa,Scapa,Primary brand,No,https://www.scapa.com,Research RC1,SWRD_Islands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-LWD-0001,DIST-LWD-0001,Auchentoshan,Auchentoshan,Primary brand,No,https://www.auchentoshan.com,Research RC1,SWRD_Lowlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-LWD-0002,DIST-LWD-0002,Bladnoch,Bladnoch,Primary brand,No,https://www.bladnoch.com,Research RC1,SWRD_Lowlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-LWD-0003,DIST-LWD-0003,Daftmill,Daftmill,Primary brand,No,https://www.daftmill.com,Research RC1,SWRD_Lowlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-LWD-0004,DIST-LWD-0004,Kingsbarns,Kingsbarns,Primary brand,No,https://www.kingsbarnsdistillery.com,Research RC1,SWRD_Lowlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-LWD-0005,DIST-LWD-0005,Lindores Abbey,Lindores Abbey,Primary brand,No,https://lindoresabbeydistillery.com,Research RC1,SWRD_Lowlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-LWD-0006,DIST-LWD-0006,Lochlea,Lochlea,Primary brand,No,https://www.lochleadistillery.com,Research RC1,SWRD_Lowlands_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-CMP-0001,DIST-CMP-0001,Glen Scotia,Glen Scotia,Primary brand,Partial,https://www.glenscotia.com,Research RC1,SWRD_Campbeltown_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-CMP-0002,DIST-CMP-0002,Springbank,Springbank,Primary brand,Partial,https://www.springbank.scot,Research RC1,SWRD_Campbeltown_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-CMP-0003,DIST-CMP-0003,Glengyle,Kilkerran,Primary brand,Partial,https://www.kilkerransinglemalt.com,Research RC1,SWRD_Campbeltown_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-GRN-0001,DIST-GRN-0001,Cameronbridge,Cameronbridge,Primary brand,No,https://www.diageo.com,Research RC1,SWRD_Grain_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-GRN-0002,DIST-GRN-0002,Girvan,Girvan Patent Still,Primary brand,No,https://www.grants.com,Research RC1,SWRD_Grain_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-GRN-0003,DIST-GRN-0003,North British,North British,Primary brand,No,https://www.northbritish.co.uk,Research RC1,SWRD_Grain_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-GRN-0004,DIST-GRN-0004,Starlaw,Starlaw,Primary brand,No,https://www.la-martiniquaise.com,Research RC1,SWRD_Grain_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-GRN-0005,DIST-GRN-0005,Invergordon,Invergordon,Primary brand,No,https://www.whyteandmackay.com,Research RC1,SWRD_Grain_v0_1_Batch1.csv,Primary brand from distillery flat row.
+BRAND-GRN-0006,DIST-GRN-0006,Loch Lomond Grain,Loch Lomond,Primary brand,No,https://www.lochlomondwhiskies.com,Research RC1,SWRD_Grain_v0_1_Batch1.csv,Primary brand from distillery flat row.

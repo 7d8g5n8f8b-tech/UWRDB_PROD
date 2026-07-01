@@ -1,28 +1,38 @@
-# UWRDB – Universal Whisky Reference Database
+# UWRDB 2.0
 
+**Universal Whisky Reference Database**  
 Project: **Aqua Vitae – Magnum Opus**
 
-UWRDB is an evidence-backed whisky reference database. Excel files are release artifacts, not the source of truth.
+UWRDB 2.0 is database-first.
 
-## Repository layout
+CSV files remain human-editable source tables, but the canonical build path is:
 
-- `data/` – source-of-truth CSV data used by the build pipeline.
-- `schema/` – SQL schema.
-- `scripts/` – import, promotion, validation and release scripts.
-- `qa/` – validation rules and generated reports.
-- `exports/` – generated build outputs.
-- `releases/` – preserved human-facing regional and Scotland-wide releases.
-- `docs/` – methodology, curation and release documentation.
+```text
+data/core/*.csv
+        ↓
+schema/schema.sql
+        ↓
+SQLite
+        ↓
+Excel / CSV / QA / release bundles
+```
 
-## Current showable release
-
-- `releases/Campbeltown/Gold_v0.1/`
-
-## Recommended workflow
+## Quick start
 
 ```bash
-python scripts/import_swa_register.py
-python scripts/promote_register.py
-python scripts/build.py
-python scripts/build_release_index.py
+pip install -r requirements.txt
+python scripts/build_all.py
 ```
+
+Outputs are written to `exports/`.
+
+## Why 2.0?
+
+The earlier foundation proved the workflow. This version reorganizes it into a maintainable package:
+
+- database-first architecture
+- modular Python package
+- stable domain tables
+- reproducible releases
+- regional release builder
+- migration notes for existing Campbeltown release

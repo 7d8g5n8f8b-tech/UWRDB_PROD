@@ -1,0 +1,9 @@
+﻿Region,ReleaseName,Status,PhysicalCanonicalRows,FlatRows,BrandRows,Path,Notes
+Speyside,Speyside Research RC1,Research RC1,52,52,61,releases/Speyside/Research_RC1/,Generated from current UWRDB working data.
+Highlands,Highlands Research RC1,Research RC1,37,41,38,releases/Highlands/Research_RC1/,Generated from current UWRDB working data.
+Islay,Islay Research RC1,Research RC1,13,21,20,releases/Islay/Research_RC1/,Generated from current UWRDB working data.
+Islands,Islands Research RC1,Research RC1,7,7,6,releases/Islands/Research_RC1/,Generated from current UWRDB working data.
+Lowlands,Lowlands Research RC1,Research RC1,6,6,6,releases/Lowlands/Research_RC1/,Generated from current UWRDB working data.
+Campbeltown,Campbeltown Gold Candidate,Gold Candidate,7,9,5,releases/Campbeltown/Gold_v0.1/,Generated from current UWRDB working data.
+Grain,Grain Research RC1,Research RC1,6,6,6,releases/Grain/Research_RC1/,Generated from current UWRDB working data.
+Scotland,Scotland All Regions RC1,Research RC1,128,142,145,releases/Scotland/RC1/,Consolidated national showable release.

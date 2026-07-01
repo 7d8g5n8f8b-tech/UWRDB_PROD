@@ -1,0 +1,18 @@
+﻿EvidenceID,EntityType,EntityID,FieldName,FieldValue,SourceID,EvidenceStrength,VerificationStatus,VerifiedDate,Notes
+EVD-0001,distillery,AVD-GLEN-SCOTIA,official_name,Glen Scotia Distillery,SRC-GLENSCOTIA-DISTILLERY,5,gold,2026-07-01,
+EVD-0002,distillery,AVD-GLEN-SCOTIA,founded,1832,SRC-GLENSCOTIA-DISTILLERY,5,gold,2026-07-01,
+EVD-0003,distillery,AVD-GLEN-SCOTIA,address,"12 High Street, Campbeltown PA28 6DS",SRC-GLENSCOTIA-CONTACT,5,gold,2026-07-01,
+EVD-0004,distillery,AVD-GLEN-SCOTIA,visitor_centre,Yes,SRC-GLENSCOTIA-TOURS,5,gold,2026-07-01,Tours page confirms tour offering; contact page supports visitor access.
+EVD-0005,distillery,AVD-GLEN-SCOTIA,stills,1 wash / 1 spirit,SRC-GLENSCOTIA-WHISKYCOM,3,verified,2026-07-01,Secondary technical source.
+EVD-0006,distillery,AVD-SPRINGBANK,official_name,Springbank Distillery,SRC-SPRINGBANK-CONTACT,5,gold,2026-07-01,
+EVD-0007,distillery,AVD-SPRINGBANK,founded,1828,SRC-SPRINGBANK-TOUR,5,gold,2026-07-01,Official tour page states same site since 1828.
+EVD-0008,distillery,AVD-SPRINGBANK,address,"Well Close, Campbeltown PA28 6ET",SRC-SPRINGBANK-CONTACT,5,gold,2026-07-01,
+EVD-0009,distillery,AVD-SPRINGBANK,stills,Three copper stills,SRC-SPRINGBANK-PROCESS,5,gold,2026-07-01,"Official process page describes wash still, low wines still, and spirit still."
+EVD-0010,brand,AVB-SPRINGBANK,brand_name,Springbank,SRC-SPRINGBANK-HOME,5,gold,2026-07-01,
+EVD-0011,brand,AVB-LONGROW,brand_name,Longrow,SRC-SPRINGBANK-HOME,5,gold,2026-07-01,
+EVD-0012,brand,AVB-HAZELBURN,brand_name,Hazelburn,SRC-SPRINGBANK-HOME,5,gold,2026-07-01,
+EVD-0013,distillery,AVD-GLENGYLE,official_name,Glengyle Distillery,SRC-KILKERRAN-HOME,5,gold,2026-07-01,Official Kilkerran site says Kilkerran is produced at Glengyle.
+EVD-0014,distillery,AVD-GLENGYLE,address,"Well Close, Campbeltown, Argyll PA28 6ET",SRC-KILKERRAN-GLENGYLE,5,gold,2026-07-01,Official registered office.
+EVD-0015,distillery,AVD-GLENGYLE,production_resumed,2004,SRC-KILKERRAN-HOME,5,gold,2026-07-01,Official site states rebuild/resumption of production in 2004.
+EVD-0016,brand,AVB-KILKERRAN,brand_name,Kilkerran,SRC-KILKERRAN-HOME,5,gold,2026-07-01,
+EVD-0017,region,Campbeltown,operating_distilleries,"Glen Scotia, Springbank, Glengyle",SRC-REGION-GM,4,verified,2026-07-01,Reference page confirms the three current distilleries in the region.

@@ -1,19 +1,10 @@
-# UWRDB QA Report
+# QA Report
 
-Generated: 2026-07-01T13:59:02.739719+00:00
-
-## Counts
-- region: 8
-- parent_company: 4
-- owner: 4
-- field_definition: 10
-- source: 3
-- distillery: 3
-- brand: 0
-- evidence: 1
-
-## Issues
-- Blockers: 0
-- Warnings: 3
-
-See `qa_issues.csv`.
+- Release: Scotland All Regions RC1 (PASS) — All current regional working data assembled into one showable release package.
+- Functional regions represented: 7 (PASS) — Campbeltown, Grain, Highlands, Islands, Islay, Lowlands, Speyside
+- Canonical physical records: 128 (PASS) — Deduped by UniqueID/name; excludes brand seeds and QA markers.
+- Flat rows retained: 142 (PASS) — Includes research/project/brand-seed rows for transparency.
+- Brand rows: 145 (PASS) — Primary brands + brand seeds + Campbeltown/Speyside linked rows.
+- Evidence rows: 17 (OPEN) — Campbeltown evidence included; other regions require evidence hardening.
+- QA blockers: 0 (PASS) — No structural blocker in assembled package.
+- Verification status: Mixed (OPEN) — Campbeltown Gold Candidate; other regions Research RC1.
