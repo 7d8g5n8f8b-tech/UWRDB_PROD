@@ -1,0 +1,15 @@
+﻿SourceID,SourceType,Authority,Title,URL,Reliability,LastChecked,Notes
+SRC-GLENSCOTIA-DISTILLERY,Official,Glen Scotia,Distillery page,https://www.glenscotia.com/pages/distillery,High,2026-07-01,Founded/history and official distillery identity.
+SRC-GLENSCOTIA-CONTACT,Official,Glen Scotia,Contact / how to find us,https://www.glenscotia.com/pages/contact-us,High,2026-07-01,Official address and contact.
+SRC-GLENSCOTIA-TOURS,Official,Glen Scotia,Distillery tours,https://www.glenscotia.com/pages/distillery-tours,High,2026-07-01,Official tours status.
+SRC-GLENSCOTIA-WILD-ARGYLL,Tourism,Wild About Argyll,Glen Scotia Distillery listing,https://www.wildaboutargyll.co.uk/distillery-listings/glen-scotia-distillery/,Medium,2026-07-01,Visitor and capacity corroboration.
+SRC-GLENSCOTIA-WHISKYCOM,Reference,Whisky.com,Glen Scotia technical profile,https://www.whisky.com/whisky-database/distilleries/details/glen-scotia.html,Medium,2026-07-01,Technical still details.
+SRC-SPRINGBANK-CONTACT,Official,Springbank,Contact Us,https://www.springbank.scot/contact-us/,High,2026-07-01,Official address and contact.
+SRC-SPRINGBANK-TOUR,Official,Springbank,Springbank Tour,https://www.springbank.scot/product/springbank-tour/,High,2026-07-01,Tours and same-site-since-1828 claim.
+SRC-SPRINGBANK-PROCESS,Official,Springbank,Process,https://www.springbank.scot/about/process/,High,2026-07-01,Three copper stills and distillation regimes.
+SRC-SPRINGBANK-HOME,Official,Springbank,Whisky brands homepage,https://www.springbank.scot/,High,2026-07-01,"Springbank, Longrow, Hazelburn brand navigation."
+SRC-SPRINGBANK-WHISKYCOM,Reference,Whisky.com,Springbank technical profile,https://www.whisky.com/whisky-database/distilleries/details/springbank.html,Medium,2026-07-01,"Technical details: still split, capacity, washbacks."
+SRC-KILKERRAN-HOME,Official,Kilkerran,Kilkerran home,https://kilkerran.scot/,High,2026-07-01,Kilkerran produced at Glengyle; ownership/resumption 2004.
+SRC-KILKERRAN-GLENGYLE,Official,Kilkerran,The Glengyle Distillery,https://kilkerran.scot/the-glengyle-distillery/,High,2026-07-01,Registered office and Glengyle history.
+SRC-KILKERRAN-TOUR,Official,Kilkerran,Kilkerran Tour,https://kilkerran.scot/product/kilkerran-tour/,High,2026-07-01,Tour availability and start location.
+SRC-REGION-GM,Reference,Gordon & MacPhail,Campbeltown region page,https://www.gordonandmacphail.com/our-whiskies/regions/campbeltown,Medium,2026-07-01,Confirms the three Campbeltown distilleries.

@@ -1,0 +1,8 @@
+﻿Metric,Value,Status,Notes
+Physical distilleries,3,PASS,"Glen Scotia, Springbank, Glengyle"
+Brand rows,5,PASS,"Glen Scotia, Springbank, Longrow, Hazelburn, Kilkerran"
+Duplicate physical IDs,0,PASS,AVD-SPRINGBANK appears in flat table for brand rows but once in canonical interpretation.
+QA blockers,0,PASS,No missing required identity fields.
+Gold evidence records,13,PASS,Identity/brand/tour/address fields have strong evidence.
+Technical fields requiring stronger source,4,OPEN,"Capacity, washbacks, water source, and some still configuration fields need owner-level technical confirmation."
+Release status,Campbeltown Gold Candidate v0.1,PASS,Suitable as first showable release; final Gold requires technical-source hardening.

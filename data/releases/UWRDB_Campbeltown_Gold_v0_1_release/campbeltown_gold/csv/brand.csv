@@ -1,0 +1,6 @@
+﻿BrandID,DistilleryID,BrandName,BrandType,Peated,DistillationStyle,Status,Website,Notes
+AVB-GLEN-SCOTIA,AVD-GLEN-SCOTIA,Glen Scotia,Single malt brand,Partial,,Active,https://www.glenscotia.com,
+AVB-SPRINGBANK,AVD-SPRINGBANK,Springbank,Single malt brand,Partial,Two-and-a-half-times distilled,Active,https://www.springbank.scot,
+AVB-LONGROW,AVD-SPRINGBANK,Longrow,Single malt brand,Yes,Double distilled,Active,https://www.springbank.scot,Produced at Springbank Distillery.
+AVB-HAZELBURN,AVD-SPRINGBANK,Hazelburn,Single malt brand,No,Triple distilled,Active,https://www.springbank.scot,Produced at Springbank Distillery.
+AVB-KILKERRAN,AVD-GLENGYLE,Kilkerran,Single malt brand,Partial,,Active,https://kilkerran.scot,Produced at Glengyle Distillery.
