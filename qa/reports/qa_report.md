@@ -1,8 +1,20 @@
-# QA Report
+# UWRDB QA Report
 
-Generated: 2026-07-01T12:24:19.906157+00:00
+Generated: 2026-07-01T13:23:55.082269+00:00
 
-- region: 8\n- parent_company: 3\n- owner: 3\n- source: 2\n- distillery: 3\n- brand: 0\n- evidence: 0
+## Counts
+- region: 8
+- parent_company: 3
+- owner: 3
+- field_definition: 10
+- source: 3
+- distillery: 3
+- brand: 0
+- evidence: 1
 
-Blockers: 0
-Warnings: 3
+## Issues
+- Blockers: 0
+- Warnings: 3
+- Gold evidence gaps: 18
+
+See `qa_issues.csv` for line-level details.

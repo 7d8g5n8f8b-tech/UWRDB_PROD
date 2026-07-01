@@ -1,3 +1,4 @@
 source_id,source_type,authority,title,url,reliability,last_checked,notes
 AVS-SWA-OPERATING-LIST,Official,Scotch Whisky Association,Current operating Scotch whisky distillery list,,High,,Canonical operating baseline
 AVS-OFFICIAL-DISTILLERY-WEBSITE,Official,Distillery,Official distillery website,,High,,
+AVS-OWNER-WEBSITE,Official,Owner,Owner corporate website,,High,,

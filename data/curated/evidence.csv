@@ -1,1 +1,2 @@
-evidence_id,entity_type,entity_id,field_name,field_value,source_id,confidence,verified_date,notes
+evidence_id,entity_type,entity_id,field_name,field_value,source_id,evidence_strength,verification_status,verified_date,notes
+AVE-000001,distillery,AVD-ARDBEG,official_name,Ardbeg,AVS-OFFICIAL-DISTILLERY-WEBSITE,4,verified,2026-07-01,Local verification of evidence capture workflow

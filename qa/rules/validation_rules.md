@@ -1,4 +1,12 @@
 # Validation Rules
 
-Blockers: missing required fields, duplicate keys, invalid foreign keys.
-Warnings: unknown owner, missing enrichment.
+## Blockers
+- Missing required fields
+- Duplicate primary keys
+- Invalid foreign keys
+- Evidence references undefined field names
+- Evidence strength outside 1–5
+
+## Warnings
+- Unknown owner for operating distillery
+- Gold-required field lacks Gold evidence

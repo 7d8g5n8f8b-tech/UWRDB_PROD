@@ -1,0 +1,11 @@
+field_name,entity_type,definition,gold_required,notes
+official_name,distillery,Official or preferred current distillery name,1,Core identity
+region_id,distillery,Controlled region classification,1,Core identity
+type,distillery,"Production type: Malt, Grain, Malt & Grain, Unknown",1,Core identity
+status,distillery,Operating status,1,Core identity
+founded_year,distillery,Year the distillery was founded,0,Requires evidence
+owner_id,distillery,Current operating owner,1,Gold requires curated owner
+parent_company_id,distillery,Ultimate controlling parent company,1,Gold requires curated parent
+website,distillery,Official website,0,Prefer HTTPS
+latitude,distillery,WGS84 latitude,0,Gold geography target
+longitude,distillery,WGS84 longitude,0,Gold geography target

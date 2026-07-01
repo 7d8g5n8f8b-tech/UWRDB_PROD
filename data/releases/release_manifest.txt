@@ -1,1 +1,5 @@
-Generated 2026-07-01T12:24:19.937516+00:00\nDistilleries: 3\n
+Generated 2026-07-01T13:23:55.111289+00:00
+Distilleries: 3
+Evidence records: 1
+Warnings: 3
+Gold evidence gaps: 18
