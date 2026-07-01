@@ -1,6 +1,19 @@
 # Contributing
 
-1. Verify facts from authoritative sources.
-2. Record evidence.
-3. Do not overwrite verified data without evidence.
-4. Keep pull requests focused.
+## Rules
+
+1. Do not add unverified facts as verified.
+2. Every verified fact must have evidence.
+3. Prefer official sources.
+4. Unknown values should remain blank/null.
+5. Changes must pass QA before release.
+
+## Confidence scale
+
+| Score | Meaning |
+|---:|---|
+| 5 | Official source + corroboration |
+| 4 | Official source |
+| 3 | Reliable secondary source |
+| 2 | Limited/conflicting evidence |
+| 1 | Historical/uncertain |

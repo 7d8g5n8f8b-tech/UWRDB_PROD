@@ -1,0 +1,8 @@
+region_id,region_name,region_type,notes
+AVR-SPEYSIDE,Speyside,Scotch region,Traditional Scotch whisky region
+AVR-HIGHLANDS,Highlands,Scotch region,Traditional Scotch whisky region
+AVR-ISLAY,Islay,Scotch region,Traditional Scotch whisky region
+AVR-ISLANDS,Islands,SWRD sub-region,Used by Aqua Vitae as a controlled classification
+AVR-LOWLANDS,Lowlands,Scotch region,Traditional Scotch whisky region
+AVR-CAMPBELTOWN,Campbeltown,Scotch region,Traditional Scotch whisky region
+AVR-GRAIN,Grain,Functional grouping,Functional grouping for grain distilleries
