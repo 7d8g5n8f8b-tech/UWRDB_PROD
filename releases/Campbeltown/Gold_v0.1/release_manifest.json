@@ -1,0 +1,18 @@
+{
+  "release": "Campbeltown Gold v0.1",
+  "status": "Gold Candidate",
+  "region": "Campbeltown",
+  "included_physical_distilleries": [
+    "Glen Scotia",
+    "Springbank",
+    "Glengyle"
+  ],
+  "included_brands": [
+    "Glen Scotia",
+    "Springbank",
+    "Longrow",
+    "Hazelburn",
+    "Kilkerran"
+  ],
+  "notes": "First showable regional release. Technical fields remain marked for hardening where owner-level confirmation is needed."
+}
