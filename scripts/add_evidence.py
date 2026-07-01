@@ -1,18 +1,3 @@
-#!/usr/bin/env python3
-"""
-Add one evidence record to data/curated/evidence.csv.
-
-Example:
-python scripts/add_evidence.py \
-  --entity-type distillery \
-  --entity-id AVD-ARDBEG \
-  --field-name official_name \
-  --field-value "Ardbeg" \
-  --source-id AVS-OFFICIAL-DISTILLERY-WEBSITE \
-  --strength 4 \
-  --status verified \
-  --date 2026-07-01
-"""
 from pathlib import Path
 import argparse, csv
 
@@ -21,10 +6,8 @@ EVIDENCE=ROOT/"data/curated/evidence.csv"
 HEAD=["evidence_id","entity_type","entity_id","field_name","field_value","source_id","evidence_strength","verification_status","verified_date","notes"]
 
 def read_rows():
-    if not EVIDENCE.exists():
-        return []
-    with EVIDENCE.open(newline="",encoding="utf-8") as f:
-        return list(csv.DictReader(f))
+    if not EVIDENCE.exists(): return []
+    with EVIDENCE.open(newline="",encoding="utf-8") as f: return list(csv.DictReader(f))
 
 def next_id(rows):
     nums=[]
@@ -46,20 +29,13 @@ def main():
     ap.add_argument("--status",required=True,choices=["unknown","captured","verified","reviewed","gold"])
     ap.add_argument("--date",required=True)
     ap.add_argument("--notes",default="")
-    args=ap.parse_args()
-
+    a=ap.parse_args()
     rows=read_rows()
     rows.append({
-        "evidence_id":next_id(rows),
-        "entity_type":args.entity_type,
-        "entity_id":args.entity_id,
-        "field_name":args.field_name,
-        "field_value":args.field_value,
-        "source_id":args.source_id,
-        "evidence_strength":str(args.strength),
-        "verification_status":args.status,
-        "verified_date":args.date,
-        "notes":args.notes,
+        "evidence_id":next_id(rows),"entity_type":a.entity_type,"entity_id":a.entity_id,
+        "field_name":a.field_name,"field_value":a.field_value,"source_id":a.source_id,
+        "evidence_strength":str(a.strength),"verification_status":a.status,
+        "verified_date":a.date,"notes":a.notes
     })
     with EVIDENCE.open("w",newline="",encoding="utf-8") as f:
         w=csv.DictWriter(f,fieldnames=HEAD); w.writeheader(); w.writerows(rows)

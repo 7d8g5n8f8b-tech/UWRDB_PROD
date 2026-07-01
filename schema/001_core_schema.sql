@@ -1,29 +1,8 @@
 PRAGMA foreign_keys = ON;
 
-CREATE TABLE region(
-  region_id TEXT PRIMARY KEY,
-  region_name TEXT NOT NULL UNIQUE,
-  region_type TEXT NOT NULL,
-  notes TEXT
-);
-
-CREATE TABLE parent_company(
-  parent_company_id TEXT PRIMARY KEY,
-  parent_company_name TEXT NOT NULL UNIQUE,
-  country TEXT,
-  website TEXT,
-  notes TEXT
-);
-
-CREATE TABLE owner(
-  owner_id TEXT PRIMARY KEY,
-  owner_name TEXT NOT NULL UNIQUE,
-  parent_company_id TEXT,
-  country TEXT,
-  website TEXT,
-  notes TEXT,
-  FOREIGN KEY(parent_company_id) REFERENCES parent_company(parent_company_id)
-);
+CREATE TABLE region(region_id TEXT PRIMARY KEY, region_name TEXT NOT NULL UNIQUE, region_type TEXT NOT NULL, notes TEXT);
+CREATE TABLE parent_company(parent_company_id TEXT PRIMARY KEY, parent_company_name TEXT NOT NULL UNIQUE, country TEXT, website TEXT, notes TEXT);
+CREATE TABLE owner(owner_id TEXT PRIMARY KEY, owner_name TEXT NOT NULL UNIQUE, parent_company_id TEXT, country TEXT, website TEXT, notes TEXT, FOREIGN KEY(parent_company_id) REFERENCES parent_company(parent_company_id));
 
 CREATE TABLE field_definition(
   field_name TEXT PRIMARY KEY,

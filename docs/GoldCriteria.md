@@ -1,21 +1,16 @@
 # Gold Criteria
 
-## Region Gold
+A distillery is Gold when all Gold-required fields have Gold evidence.
+
+Core Gold-required fields:
+- official_name
+- region_id
+- type
+- status
+- owner_id
+- parent_company_id
 
 A region is Gold when:
-
-- Every operating distillery in scope exists in the canonical register.
-- Every identity field is complete.
-- Every verified field has evidence.
-- QA blockers = 0.
-- Unknown values are documented, not guessed.
-
-## Field lifecycle
-
-| Status | Meaning |
-|---|---|
-| unknown | No reliable value yet |
-| captured | Entered but not verified |
-| verified | Checked against source |
-| reviewed | Independently reviewed |
-| gold | Publication-quality |
+- all operating distilleries in scope are present,
+- QA blockers are zero,
+- Gold evidence gaps are resolved or documented.

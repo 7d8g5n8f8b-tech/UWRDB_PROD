@@ -1,4 +1,4 @@
-Imported 3 records
+Staged 3 records for review: /mnt/data/UWRDB_v0.6/data/staging/distillery_import_review.csv
 
 Spreadsheet runtime warmup failed during python startup
 Traceback (most recent call last):

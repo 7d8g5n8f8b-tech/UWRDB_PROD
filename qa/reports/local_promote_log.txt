@@ -1,4 +1,4 @@
-Added evidence AVE-000001
+Promoted 3 curated distillery records using mode=append-new
 
 Spreadsheet runtime warmup failed during python startup
 Traceback (most recent call last):

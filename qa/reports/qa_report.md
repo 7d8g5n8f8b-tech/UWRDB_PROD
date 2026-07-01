@@ -1,11 +1,11 @@
 # UWRDB QA Report
 
-Generated: 2026-07-01T13:23:55.082269+00:00
+Generated: 2026-07-01T13:47:24.419360+00:00
 
 ## Counts
 - region: 8
-- parent_company: 3
-- owner: 3
+- parent_company: 4
+- owner: 4
 - field_definition: 10
 - source: 3
 - distillery: 3
@@ -15,6 +15,5 @@ Generated: 2026-07-01T13:23:55.082269+00:00
 ## Issues
 - Blockers: 0
 - Warnings: 3
-- Gold evidence gaps: 18
 
-See `qa_issues.csv` for line-level details.
+See `qa_issues.csv`.
