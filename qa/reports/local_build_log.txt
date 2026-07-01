@@ -1,0 +1,17 @@
+Build complete
+/mnt/data/UWRDB_v0.3/exports/sqlite/uwrdb.sqlite
+/mnt/data/UWRDB_v0.3/exports/xlsx/UWRDB_release.xlsx
+/mnt/data/UWRDB_v0.3/qa/reports/qa_report.md
+
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/generated/interface/models.py", line 30820, in hydrate_crdt_from_proto
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.
+/mnt/data/UWRDB_v0.3/scripts/build.py:58: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  QA.write_text("# UWRDB QA Report\n\nGenerated: "+datetime.utcnow().isoformat()+"Z\n\n"+"## Counts\n"+"\n".join(f"- {t}: {len(rs)}" for t,rs in data.items())+"\n\n## Issues\n"+("\n".join(f"- {x}" for x in issues) if issues else "No blocking QA issues found.")+"\n",encoding="utf-8")
