@@ -1,0 +1,5 @@
+CREATE TABLE Brand(
+  BrandID TEXT PRIMARY KEY,
+  DistilleryID TEXT NOT NULL,
+  BrandName TEXT NOT NULL
+);
