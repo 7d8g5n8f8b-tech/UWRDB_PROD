@@ -1,0 +1,155 @@
+﻿SWA_Number,SWA_Name,NormalizedName,In_RC1,RC1_UniqueID,RC2_UniqueID,Action,Region,Type,Status,SourceID,Notes
+1,8 Doors Distillery,8 doors,No,,AVD-8-DOORS,Added in RC2 from SWA April 2026 baseline,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,Official site says opened in September 2022 and lists John O’Groats KW1 4YR; tours available.
+2,Aberargie Distillery,aberargie,No,,AVD-ABERARGIE,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+3,Aberfeldy Distillery,aberfeldy,No,,AVD-ABERFELDY,Added in RC2 from SWA April 2026 baseline,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+4,Aberlour Distillery,aberlour,Yes,DIST-SPY-0001,DIST-SPY-0001,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+5,Ailsa Bay Distillery,ailsa bay,No,,AVD-AILSA-BAY,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+6,Allt a’ Bhainne Distillery,allt a bhainne,Yes,DIST-SPY-0002,DIST-SPY-0002,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+7,Annandale Distillery,annandale,No,,AVD-ANNANDALE,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+8,Arbikie Distillery,arbikie,Yes,DIST-HLD-0034,DIST-HLD-0034,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+9,Ardbeg Distillery,ardbeg,Yes,DIST-ISL-0001,DIST-ISL-0001,Matched existing RC1 row,Islay,Malt,Operating,SRC-SWA-APRIL-2026,
+10,Ardgowan Distillery,ardgowan,No,,AVD-ARDGOWAN,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+11,Ardmore Distillery,ardmore,Yes,DIST-HLD-0001,DIST-HLD-0001,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+12,Ardnahoe Distillery,ardnahoe,Yes,DIST-ISL-0002,DIST-ISL-0002,Matched existing RC1 row,Islay,Malt,Operating,SRC-SWA-APRIL-2026,
+13,Ardnamurchan Distillery,ardnamurchan,Yes,DIST-HLD-0002,DIST-HLD-0002,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+14,Ardross Distillery,ardross,No,,AVD-ARDROSS,Added in RC2 from SWA April 2026 baseline,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+15,Auchentoshan Distillery,auchentoshan,Yes,DIST-LWD-0001,DIST-LWD-0001,Matched existing RC1 row,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,
+16,Auchroisk Distillery,auchroisk,Yes,DIST-SPY-0003,DIST-SPY-0003,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+17,Aultmore Distillery,aultmore,Yes,DIST-SPY-0004,DIST-SPY-0004,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+18,Balblair Distillery,balblair,Yes,DIST-HLD-0003,DIST-HLD-0003,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+19,Ballindalloch Distillery,ballindalloch,Yes,DIST-SPY-0005,DIST-SPY-0005,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+20,Balmaud Distillery,balmaud,No,,AVD-BALMAUD,Added in RC2 from SWA April 2026 baseline,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+21,Balmenach Distillery,balmenach,Yes,DIST-SPY-0006,DIST-SPY-0006,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+22,"Balvenie, The Distillery",balvenie,Yes,DIST-SPY-0007,DIST-SPY-0007,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+23,Ben Nevis Distillery,ben nevis,Yes,DIST-HLD-0026,DIST-HLD-0026,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+24,Benbecula Distillery,benbecula,No,,AVD-BENBECULA,Added in RC2 from SWA April 2026 baseline,Islands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+25,BenRiach Distillery,benriach,Yes,DIST-SPY-0008,DIST-SPY-0008,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+26,Benrinnes Distillery,benrinnes,Yes,DIST-SPY-0009,DIST-SPY-0009,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+27,Benromach Distillery,benromach,Yes,DIST-SPY-0010,DIST-SPY-0010,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+28,Blackness Bay Distillery,blackness bay,No,,AVD-BLACKNESS-BAY,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+29,Bladnoch Distillery,bladnoch,Yes,DIST-LWD-0002,DIST-LWD-0002,Matched existing RC1 row,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,
+30,Blair Athol Distillery,blair athol,Yes,DIST-HLD-0004,DIST-HLD-0004,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+31,Bonnington Distillery,bonnington,No,,AVD-BONNINGTON,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+32,Borders Distillery,borders,No,,AVD-BORDERS,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+33,Bowmore Distillery,bowmore,Yes,DIST-ISL-0003,DIST-ISL-0003,Matched existing RC1 row,Islay,Malt,Operating,SRC-SWA-APRIL-2026,
+34,Braeval Distillery,braeval,Yes,DIST-SPY-0011,DIST-SPY-0011,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+35,Brora Distillery,brora,Yes,DIST-HLD-0038,DIST-HLD-0038,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+36,Bruichladdich Distillery,bruichladdich,Yes,DIST-ISL-0004,DIST-ISL-0004,Matched existing RC1 row,Islay,Malt,Operating,SRC-SWA-APRIL-2026,
+37,Bunnahabhain Distillery,bunnahabhain,Yes,DIST-ISL-0005,DIST-ISL-0005,Matched existing RC1 row,Islay,Malt,Operating,SRC-SWA-APRIL-2026,
+38,Burn o’Bennie Distillery,burn obennie,No,,AVD-BURN-OBENNIE,Added in RC2 from SWA April 2026 baseline,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+39,"Cabrach, The Distillery",cabrach,Yes,DIST-SPY-0052,DIST-SPY-0052,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+40,"Cairn Distillery, The Distillery",cairn,Yes,DIST-SPY-0012,DIST-SPY-0012,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+41,Cameronbridge Distillery,cameronbridge,Yes,DIST-GRN-0001,DIST-GRN-0001,Matched existing RC1 row,Lowlands,Grain,Operating,SRC-SWA-APRIL-2026,
+42,Caol Ila Distillery,caol ila,Yes,DIST-ISL-0006,DIST-ISL-0006,Matched existing RC1 row,Islay,Malt,Operating,SRC-SWA-APRIL-2026,
+43,Cardhu Distillery,cardhu,Yes,DIST-SPY-0013,DIST-SPY-0013,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+44,Clydeside Distillery,clydeside,No,,AVD-CLYDESIDE,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,"Official site gives address, tours and single malt production; whisky page states water from Loch Katrine."
+45,Clynelish Distillery,clynelish,Yes,DIST-HLD-0005,DIST-HLD-0005,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+46,Cragganmore Distillery,cragganmore,Yes,DIST-SPY-0014,DIST-SPY-0014,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+47,Craigellachie Distillery,craigellachie,Yes,DIST-SPY-0015,DIST-SPY-0015,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+48,Daftmill Distillery,daftmill,Yes,DIST-LWD-0003,DIST-LWD-0003,Matched existing RC1 row,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,
+49,Dailuaine Distillery,dailuaine,Yes,DIST-SPY-0016,DIST-SPY-0016,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+50,Dalmore Distillery,dalmore,Yes,DIST-HLD-0006,DIST-HLD-0006,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+51,Dalmunach Distillery,dalmunach,Yes,DIST-SPY-0017,DIST-SPY-0017,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+52,Dalwhinnie Distillery,dalwhinnie,Yes,DIST-HLD-0007,DIST-HLD-0007,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+53,Deanston Distillery,deanston,Yes,DIST-HLD-0008,DIST-HLD-0008,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+54,Deerness Distillery,deerness,No,,AVD-DEERNESS,Added in RC2 from SWA April 2026 baseline,Islands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+55,Dornoch Distillery,dornoch,Yes,DIST-HLD-0028,DIST-HLD-0028,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+56,Dufftown Distillery,dufftown,Yes,DIST-SPY-0018,DIST-SPY-0018,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+57,Dunphail Distillery,dunphail,Yes,DIST-SPY-0051,DIST-SPY-0051,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+58,Edradour Distillery,edradour,Yes,DIST-HLD-0009,DIST-HLD-0009,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+59,Falkirk Distillery,falkirk,No,,AVD-FALKIRK,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+60,Fettercairn Distillery,fettercairn,Yes,DIST-HLD-0010,DIST-HLD-0010,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+61,Galloway Distillery,galloway,No,,AVD-GALLOWAY,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+62,Girvan Distillery,girvan,Yes,DIST-GRN-0002,DIST-GRN-0002,Matched existing RC1 row,Lowlands,Grain,Operating,SRC-SWA-APRIL-2026,
+63,Glasgow Distillery,glasgow,No,,AVD-GLASGOW,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+64,Glen Elgin Distillery,glen elgin,Yes,DIST-SPY-0020,DIST-SPY-0020,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+65,Glen Garioch Distillery,glen garioch,Yes,DIST-HLD-0012,DIST-HLD-0012,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+66,Glen Grant Distillery,glen grant,Yes,DIST-SPY-0021,DIST-SPY-0021,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+67,Glen Keith Distillery,glen keith,Yes,DIST-SPY-0022,DIST-SPY-0022,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+68,Glen Moray Distillery,glen moray,Yes,DIST-SPY-0023,DIST-SPY-0023,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+69,Glen Ord Distillery,glen ord,Yes,DIST-HLD-0013,DIST-HLD-0013,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+70,Glen Scotia Distillery,glen scotia,Yes,AVD-GLEN-SCOTIA,AVD-GLEN-SCOTIA,Matched existing RC1 row,Campbeltown,Malt,Operating,SRC-SWA-APRIL-2026,
+71,GlenAllachie Distillery,glenallachie,Yes,DIST-SPY-0019,DIST-SPY-0019,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+72,Glenburgie Distillery,glenburgie,Yes,DIST-SPY-0025,DIST-SPY-0025,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+73,Glencadam Distillery,glencadam,Yes,DIST-HLD-0011,DIST-HLD-0011,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+74,"Glendronach, The Distillery",glendronach,No,,AVD-GLENDRONACH,Added in RC2 from SWA April 2026 baseline,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+75,Glendullan Distillery,glendullan,Yes,DIST-SPY-0026,DIST-SPY-0026,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+76,Glenfarclas Distillery,glenfarclas,Yes,DIST-SPY-0027,DIST-SPY-0027,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+77,Glenfiddich Distillery,glenfiddich,Yes,DIST-SPY-0028,DIST-SPY-0028,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+78,Glenglassaugh Distillery,glenglassaugh,Yes,DIST-HLD-0031,DIST-HLD-0031,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+79,Glengoyne Distillery,glengoyne,No,,AVD-GLENGOYNE,Added in RC2 from SWA April 2026 baseline,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+80,Glengyle Distillery,glengyle,Yes,AVD-GLENGYLE,AVD-GLENGYLE,Matched existing RC1 row,Campbeltown,Malt,Operating,SRC-SWA-APRIL-2026,
+81,Glenkinchie Distillery,glenkinchie,No,,AVD-GLENKINCHIE,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+82,"Glenlivet, The Distillery",glenlivet,Yes,DIST-SPY-0029,DIST-SPY-0029,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+83,Glenlossie Distillery,glenlossie,Yes,DIST-SPY-0030,DIST-SPY-0030,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+84,Glenmorangie Distillery,glenmorangie,Yes,DIST-HLD-0014,DIST-HLD-0014,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+85,Glenrothes Distillery,glenrothes,Yes,DIST-SPY-0031,DIST-SPY-0031,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+86,Glentauchers Distillery,glentauchers,Yes,DIST-SPY-0032,DIST-SPY-0032,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+87,"Glenturret, The Distillery",glenturret,Yes,DIST-HLD-0032,DIST-HLD-0032,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+88,GlenWyvis Distillery,glenwyvis,Yes,DIST-HLD-0036,DIST-HLD-0036,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+89,Highland Park Distillery,highland park,Yes,DIST-ISD-0005,DIST-ISD-0005,Matched existing RC1 row,Islands,Malt,Operating,SRC-SWA-APRIL-2026,
+90,Holyrood Distillery,holyrood,No,,AVD-HOLYROOD,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+91,InchDairnie Distillery,inchdairnie,No,,AVD-INCHDAIRNIE,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+92,Inchgower Distillery,inchgower,Yes,DIST-SPY-0033,DIST-SPY-0033,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+93,Invergordon Distillery,invergordon,Yes,DIST-GRN-0005,DIST-GRN-0005,Matched existing RC1 row,Highlands,Grain,Operating,SRC-SWA-APRIL-2026,
+94,Isle of Harris Distillery,isle of harris,No,,AVD-ISLE-OF-HARRIS,Added in RC2 from SWA April 2026 baseline,Islands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+95,Isle of Jura Distillery,isle of jura,No,,AVD-ISLE-OF-JURA,Added in RC2 from SWA April 2026 baseline,Islands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+96,Isle of Raasay Distillery,isle of raasay,No,,AVD-ISLE-OF-RAASAY,Added in RC2 from SWA April 2026 baseline,Islands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+97,Isle of Tiree Distillery,isle of tiree,No,,AVD-ISLE-OF-TIREE,Added in RC2 from SWA April 2026 baseline,Islands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+98,Jackton Distillery,jackton,No,,AVD-JACKTON,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+99,Kilchoman Distillery,kilchoman,Yes,DIST-ISL-0007,DIST-ISL-0007,Matched existing RC1 row,Islay,Malt,Operating,SRC-SWA-APRIL-2026,
+100,Kingsbarns Distillery,kingsbarns,Yes,DIST-LWD-0004,DIST-LWD-0004,Matched existing RC1 row,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,
+101,Kininvie Distillery,kininvie,Yes,DIST-SPY-0034,DIST-SPY-0034,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+102,Knockando Distillery,knockando,Yes,DIST-SPY-0035,DIST-SPY-0035,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+103,Knockdhu Distillery,knockdhu,No,,AVD-KNOCKDHU,Added in RC2 from SWA April 2026 baseline,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+104,Lagavulin Distillery,lagavulin,Yes,DIST-ISL-0008,DIST-ISL-0008,Matched existing RC1 row,Islay,Malt,Operating,SRC-SWA-APRIL-2026,
+105,Lagg Distillery,lagg,Yes,DIST-ISL-0012,DIST-ISL-0012,Matched existing RC1 row,Islands,Malt,Operating,SRC-SWA-APRIL-2026,
+106,Laggan Bay Distillery,laggan bay,Yes,DIST-ISL-0019,DIST-ISL-0019,Matched existing RC1 row,Islay,Malt,Operating,SRC-SWA-APRIL-2026,
+107,Laphroaig Distillery,laphroaig,Yes,DIST-ISL-0009,DIST-ISL-0009,Matched existing RC1 row,Islay,Malt,Operating,SRC-SWA-APRIL-2026,
+108,Lindores Abbey Distillery,lindores abbey,Yes,DIST-HLD-0035,DIST-HLD-0035,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+109,Linkwood Distillery,linkwood,Yes,DIST-SPY-0036,DIST-SPY-0036,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+110,Loch Lomond Grain Distillery,loch lomond grain,Yes,DIST-GRN-0006,DIST-GRN-0006,Matched existing RC1 row,Highlands,Grain,Operating,SRC-SWA-APRIL-2026,
+111,Loch Lomond Malt Distillery,loch lomond malt,Yes,DIST-HLD-0015,DIST-HLD-0015,Matched existing RC1 row,Highlands,Malt & Grain,Operating,SRC-SWA-APRIL-2026,
+112,Lochlea Distillery,lochlea,Yes,DIST-HLD-0033,DIST-HLD-0033,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+113,Lochranza Distillery,lochranza,Yes,DIST-ISD-0001,DIST-ISD-0001,Matched existing RC1 row,Islands,Malt,Operating,SRC-SWA-APRIL-2026,
+114,Longmorn Distillery,longmorn,Yes,DIST-SPY-0037,DIST-SPY-0037,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+115,"Macallan, The Distillery",macallan,Yes,DIST-SPY-0038,DIST-SPY-0038,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+116,Macduff Distillery,macduff,No,,AVD-MACDUFF,Added in RC2 from SWA April 2026 baseline,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+117,Mannochmore Distillery,mannochmore,Yes,DIST-SPY-0039,DIST-SPY-0039,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+118,Miltonduff Distillery,miltonduff,Yes,DIST-SPY-0040,DIST-SPY-0040,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+119,"Moffat, The Distillery",moffat,No,,AVD-MOFFAT,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+120,Mortlach Distillery,mortlach,Yes,DIST-SPY-0041,DIST-SPY-0041,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+121,Ncn'ean Distillery,ncnean,Yes,DIST-HLD-0029,DIST-HLD-0029,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+122,North British Distillery,north british,Yes,DIST-GRN-0003,DIST-GRN-0003,Matched existing RC1 row,Lowlands,Grain,Operating,SRC-SWA-APRIL-2026,
+123,North Point Distillery,north point,No,,AVD-NORTH-POINT,Added in RC2 from SWA April 2026 baseline,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+124,North Uist Distillery,north uist,No,,AVD-NORTH-UIST,Added in RC2 from SWA April 2026 baseline,Islands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+125,Oban Distillery,oban,Yes,DIST-HLD-0016,DIST-HLD-0016,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+126,Orkney Distillery,orkney,No,,AVD-ORKNEY,Added in RC2 from SWA April 2026 baseline,Islands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+127,Port Ellen Distillery,port ellen,Yes,DIST-ISL-0010,DIST-ISL-0010,Matched existing RC1 row,Islay,Malt,Operating,SRC-SWA-APRIL-2026,
+128,Port of Leith Distillery,port of leith,No,,AVD-PORT-OF-LEITH,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+129,Pulteney Distillery,pulteney,Yes,DIST-HLD-0017,DIST-HLD-0017,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+130,Reivers Distillery,reivers,No,,AVD-REIVERS,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+131,Rosebank Distillery,rosebank,No,,AVD-ROSEBANK,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Official sources confirm rebuilt/reopened Rosebank; secondary sources confirm visitor opening in 2024.
+132,Roseisle Distillery,roseisle,Yes,DIST-SPY-0042,DIST-SPY-0042,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+133,Royal Brackla Distillery,royal brackla,Yes,DIST-HLD-0018,DIST-HLD-0018,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+134,Royal Lochnagar Distillery,royal lochnagar,Yes,DIST-HLD-0019,DIST-HLD-0019,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+135,Scapa Distillery,scapa,Yes,DIST-ISD-0006,DIST-ISD-0006,Matched existing RC1 row,Islands,Malt,Operating,SRC-SWA-APRIL-2026,
+136,Speyburn Distillery,speyburn,Yes,DIST-SPY-0043,DIST-SPY-0043,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+137,Springbank Distillery,springbank,Yes,AVD-SPRINGBANK,AVD-SPRINGBANK,Matched existing RC1 row,Campbeltown,Malt,Operating,SRC-SWA-APRIL-2026,
+138,Starlaw Distillery,starlaw,Yes,DIST-GRN-0004,DIST-GRN-0004,Matched existing RC1 row,Lowlands,Grain,Operating,SRC-SWA-APRIL-2026,
+139,Stirling Distillery,stirling,No,,AVD-STIRLING,Added in RC2 from SWA April 2026 baseline,Lowlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+140,Strathclyde Distillery,strathclyde,No,,AVD-STRATHCLYDE,Added in RC2 from SWA April 2026 baseline,Lowlands,Grain,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+141,Strathearn Distillery,strathearn,No,,AVD-STRATHEARN,Added in RC2 from SWA April 2026 baseline,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+142,Strathisla Distillery,strathisla,Yes,DIST-SPY-0045,DIST-SPY-0045,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+143,Talisker Distillery,talisker,Yes,DIST-ISD-0004,DIST-ISD-0004,Matched existing RC1 row,Islands,Malt,Operating,SRC-SWA-APRIL-2026,
+144,Tamdhu Distillery,tamdhu,Yes,DIST-SPY-0047,DIST-SPY-0047,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+145,Tamnavulin Distillery,tamnavulin,Yes,DIST-SPY-0048,DIST-SPY-0048,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+146,Teaninich Distillery,teaninich,Yes,DIST-HLD-0020,DIST-HLD-0020,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+147,Tobermory Distillery,tobermory,No,,AVD-TOBERMORY,Added in RC2 from SWA April 2026 baseline,Islands,Malt,Operating,SRC-SWA-APRIL-2026,Minimal canonical row; operating status verified by SWA April 2026 list. Enrichment pending.
+148,Tomatin Distillery,tomatin,Yes,DIST-HLD-0021,DIST-HLD-0021,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+149,Tomintoul Distillery,tomintoul,Yes,DIST-SPY-0049,DIST-SPY-0049,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+150,Torabhaig Distillery,torabhaig,Yes,DIST-HLD-0024,DIST-HLD-0024,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+151,Tormore Distillery,tormore,Yes,DIST-SPY-0050,DIST-SPY-0050,Matched existing RC1 row,Speyside,Malt,Operating,SRC-SWA-APRIL-2026,
+152,Tullibardine Distillery,tullibardine,Yes,DIST-HLD-0022,DIST-HLD-0022,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+153,Uile-bheist Distillery,uile bheist,Yes,DIST-HLD-0030,DIST-HLD-0030,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,
+154,Wolfburn Distillery,wolfburn,Yes,DIST-HLD-0023,DIST-HLD-0023,Matched existing RC1 row,Highlands,Malt,Operating,SRC-SWA-APRIL-2026,

@@ -1,0 +1,8 @@
+﻿UniqueID,Distillery Name,Status,Region,Type,ReleaseStatus,SourceFile,ReviewRecommendation,Notes
+DIST-CMP-0004,Dál Riata,Planned,Campbeltown,Malt,Research RC1,SWRD_Campbeltown_v0_1_Batch1.csv,Move to Project/Historic/Alias review; not on SWA April 2026 operating baseline under this name.,
+DIST-HLD-0027,Brackla (Cawdor),Closed,Highlands,Malt,Research RC1,SWRD_Highlands_v0_1_Batch4.csv,Move to Project/Historic/Alias review; not on SWA April 2026 operating baseline under this name.,
+DIST-ISL-0013,Kilchiaran,Under Construction,Islay,Malt,Research RC1,SWRD_Islay_v0_1_Batch3.csv,Move to Project/Historic/Alias review; not on SWA April 2026 operating baseline under this name.,
+DIST-ISL-0011,Portintruan,Operating,Islay,Malt,Research RC1,SWRD_Islay_v0_1_Batch2.csv,Move to Project/Historic/Alias review; not on SWA April 2026 operating baseline under this name.,
+DIST-SPY-0024,Glen Spey,Operating,Speyside,Malt,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Move to Project/Historic/Alias review; not on SWA April 2026 operating baseline under this name.,
+DIST-SPY-0046,Strathmill,Operating,Speyside,Malt,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Move to Project/Historic/Alias review; not on SWA April 2026 operating baseline under this name.,
+DIST-SPY-0044,The Speyside Distillery,Operating,Speyside,Malt,Research RC1,SWRD_Speyside_v0_1_distilleries_raw.csv,Move to Project/Historic/Alias review; not on SWA April 2026 operating baseline under this name.,SWA April 2026 list includes Speyside as current operating.

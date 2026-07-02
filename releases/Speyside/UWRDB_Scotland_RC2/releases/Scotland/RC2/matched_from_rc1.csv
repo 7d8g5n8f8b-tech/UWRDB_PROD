@@ -1,0 +1,115 @@
+﻿SWA_Number,UniqueID,Distillery Name,Region,Type,RC1_SourceFile,RC1_ReleaseStatus
+4,DIST-SPY-0001,Aberlour Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+6,DIST-SPY-0002,Allt a’ Bhainne Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+8,DIST-HLD-0034,Arbikie Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch5.csv,Research RC1
+9,DIST-ISL-0001,Ardbeg Distillery,Islay,Malt,SWRD_Islay_v0_1_Batch1.csv,Research RC1
+11,DIST-HLD-0001,Ardmore Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch1.csv,Research RC1
+12,DIST-ISL-0002,Ardnahoe Distillery,Islay,Malt,SWRD_Islay_v0_1_Batch1.csv,Research RC1
+13,DIST-HLD-0002,Ardnamurchan Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch1.csv,Research RC1
+15,DIST-LWD-0001,Auchentoshan Distillery,Lowlands,Malt,SWRD_Lowlands_v0_1_Batch1.csv,Research RC1
+16,DIST-SPY-0003,Auchroisk Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+17,DIST-SPY-0004,Aultmore Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+18,DIST-HLD-0003,Balblair Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch1.csv,Research RC1
+19,DIST-SPY-0005,Ballindalloch Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+21,DIST-SPY-0006,Balmenach Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+22,DIST-SPY-0007,Balvenie Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+23,DIST-HLD-0026,Ben Nevis Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch4.csv,Research RC1
+25,DIST-SPY-0008,BenRiach Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+26,DIST-SPY-0009,Benrinnes Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+27,DIST-SPY-0010,Benromach Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+29,DIST-LWD-0002,Bladnoch Distillery,Lowlands,Malt,SWRD_Lowlands_v0_1_Batch1.csv,Research RC1
+30,DIST-HLD-0004,Blair Athol Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch1.csv,Research RC1
+33,DIST-ISL-0003,Bowmore Distillery,Islay,Malt,SWRD_Islay_v0_1_Batch1.csv,Research RC1
+34,DIST-SPY-0011,Braeval Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+35,DIST-HLD-0038,Brora Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch6_QA.csv,Research RC1
+36,DIST-ISL-0004,Bruichladdich Distillery,Islay,Malt,SWRD_Islay_v0_1_Batch1.csv,Research RC1
+37,DIST-ISL-0005,Bunnahabhain Distillery,Islay,Malt,SWRD_Islay_v0_1_Batch1.csv,Research RC1
+39,DIST-SPY-0052,Cabrach Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+40,DIST-SPY-0012,Cairn Distillery Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+41,DIST-GRN-0001,Cameronbridge Distillery,Lowlands,Grain,SWRD_Grain_v0_1_Batch1.csv,Research RC1
+42,DIST-ISL-0006,Caol Ila Distillery,Islay,Malt,SWRD_Islay_v0_1_Batch1.csv,Research RC1
+43,DIST-SPY-0013,Cardhu Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+45,DIST-HLD-0005,Clynelish Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch1.csv,Research RC1
+46,DIST-SPY-0014,Cragganmore Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+47,DIST-SPY-0015,Craigellachie Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+48,DIST-LWD-0003,Daftmill Distillery,Lowlands,Malt,SWRD_Lowlands_v0_1_Batch1.csv,Research RC1
+49,DIST-SPY-0016,Dailuaine Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+50,DIST-HLD-0006,Dalmore Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch1.csv,Research RC1
+51,DIST-SPY-0017,Dalmunach Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+52,DIST-HLD-0007,Dalwhinnie Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch1.csv,Research RC1
+53,DIST-HLD-0008,Deanston Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch1.csv,Research RC1
+55,DIST-HLD-0028,Dornoch Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch4.csv,Research RC1
+56,DIST-SPY-0018,Dufftown Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+57,DIST-SPY-0051,Dunphail Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+58,DIST-HLD-0009,Edradour Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch2.csv,Research RC1
+60,DIST-HLD-0010,Fettercairn Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch2.csv,Research RC1
+62,DIST-GRN-0002,Girvan Distillery,Lowlands,Grain,SWRD_Grain_v0_1_Batch1.csv,Research RC1
+64,DIST-SPY-0020,Glen Elgin Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+65,DIST-HLD-0012,Glen Garioch Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch2.csv,Research RC1
+66,DIST-SPY-0021,Glen Grant Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+67,DIST-SPY-0022,Glen Keith Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+68,DIST-SPY-0023,Glen Moray Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+69,DIST-HLD-0013,Glen Ord Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch2.csv,Research RC1
+70,AVD-GLEN-SCOTIA,Glen Scotia Distillery,Campbeltown,Malt,Campbeltown Gold v0.1,Gold Candidate
+71,DIST-SPY-0019,GlenAllachie Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+72,DIST-SPY-0025,Glenburgie Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+73,DIST-HLD-0011,Glencadam Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch2.csv,Research RC1
+75,DIST-SPY-0026,Glendullan Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+76,DIST-SPY-0027,Glenfarclas Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+77,DIST-SPY-0028,Glenfiddich Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+78,DIST-HLD-0031,Glenglassaugh Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch5.csv,Research RC1
+80,AVD-GLENGYLE,Glengyle Distillery,Campbeltown,Malt,Campbeltown Gold v0.1,Gold Candidate
+82,DIST-SPY-0029,Glenlivet Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+83,DIST-SPY-0030,Glenlossie Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+84,DIST-HLD-0014,Glenmorangie Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch2.csv,Research RC1
+85,DIST-SPY-0031,Glenrothes Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+86,DIST-SPY-0032,Glentauchers Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+87,DIST-HLD-0032,Glenturret Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch5.csv,Research RC1
+88,DIST-HLD-0036,GlenWyvis Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch5.csv,Research RC1
+89,DIST-ISD-0005,Highland Park Distillery,Islands,Malt,SWRD_Islands_v0_1_Batch1.csv,Research RC1
+92,DIST-SPY-0033,Inchgower Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+93,DIST-GRN-0005,Invergordon Distillery,Highlands,Grain,SWRD_Grain_v0_1_Batch1.csv,Research RC1
+99,DIST-ISL-0007,Kilchoman Distillery,Islay,Malt,SWRD_Islay_v0_1_Batch2.csv,Research RC1
+100,DIST-LWD-0004,Kingsbarns Distillery,Lowlands,Malt,SWRD_Lowlands_v0_1_Batch1.csv,Research RC1
+101,DIST-SPY-0034,Kininvie Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+102,DIST-SPY-0035,Knockando Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+103,DIST-HLD-0025,Knockdhu Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch4.csv,Research RC1
+104,DIST-ISL-0008,Lagavulin Distillery,Islay,Malt,SWRD_Islay_v0_1_Batch2.csv,Research RC1
+105,DIST-ISL-0012,Lagg Distillery,Islands,Malt,SWRD_Islay_v0_1_Batch2.csv,Research RC1
+106,DIST-ISL-0019,Laggan Bay Distillery,Islay,Malt,SWRD_Islay_v0_1_Batch4.csv,Research RC1
+107,DIST-ISL-0009,Laphroaig Distillery,Islay,Malt,SWRD_Islay_v0_1_Batch2.csv,Research RC1
+108,DIST-HLD-0035,Lindores Abbey Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch5.csv,Research RC1
+109,DIST-SPY-0036,Linkwood Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+110,DIST-GRN-0006,Loch Lomond Grain Distillery,Highlands,Grain,SWRD_Grain_v0_1_Batch1.csv,Research RC1
+111,DIST-HLD-0015,Loch Lomond Malt Distillery,Highlands,Malt & Grain,SWRD_Highlands_v0_1_Batch2.csv,Research RC1
+112,DIST-HLD-0033,Lochlea Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch5.csv,Research RC1
+113,DIST-ISD-0001,Lochranza Distillery,Islands,Malt,SWRD_Islands_v0_1_Batch1.csv,Research RC1
+114,DIST-SPY-0037,Longmorn Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+115,DIST-SPY-0038,Macallan Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+117,DIST-SPY-0039,Mannochmore Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+118,DIST-SPY-0040,Miltonduff Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+120,DIST-SPY-0041,Mortlach Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+121,DIST-HLD-0029,Ncn'ean Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch4.csv,Research RC1
+122,DIST-GRN-0003,North British Distillery,Lowlands,Grain,SWRD_Grain_v0_1_Batch1.csv,Research RC1
+125,DIST-HLD-0016,Oban Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch2.csv,Research RC1
+127,DIST-ISL-0010,Port Ellen Distillery,Islay,Malt,SWRD_Islay_v0_1_Batch2.csv,Research RC1
+129,DIST-HLD-0017,Pulteney Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch3.csv,Research RC1
+132,DIST-SPY-0042,Roseisle Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+133,DIST-HLD-0018,Royal Brackla Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch3.csv,Research RC1
+134,DIST-HLD-0019,Royal Lochnagar Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch3.csv,Research RC1
+135,DIST-ISD-0006,Scapa Distillery,Islands,Malt,SWRD_Islands_v0_1_Batch1.csv,Research RC1
+136,DIST-SPY-0043,Speyburn Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+137,AVD-SPRINGBANK,Springbank Distillery,Campbeltown,Malt,Campbeltown Gold v0.1,Gold Candidate
+138,DIST-GRN-0004,Starlaw Distillery,Lowlands,Grain,SWRD_Grain_v0_1_Batch1.csv,Research RC1
+142,DIST-SPY-0045,Strathisla Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+143,DIST-ISD-0004,Talisker Distillery,Islands,Malt,SWRD_Islands_v0_1_Batch1.csv,Research RC1
+144,DIST-SPY-0047,Tamdhu Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+145,DIST-SPY-0048,Tamnavulin Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+146,DIST-HLD-0020,Teaninich Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch3.csv,Research RC1
+148,DIST-HLD-0021,Tomatin Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch3.csv,Research RC1
+149,DIST-SPY-0049,Tomintoul Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+150,DIST-HLD-0024,Torabhaig Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch3.csv,Research RC1
+151,DIST-SPY-0050,Tormore Distillery,Speyside,Malt,SWRD_Speyside_v0_1_distilleries_raw.csv,Research RC1
+152,DIST-HLD-0022,Tullibardine Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch3.csv,Research RC1
+153,DIST-HLD-0030,Uile-bheist Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch4.csv,Research RC1
+154,DIST-HLD-0023,Wolfburn Distillery,Highlands,Malt,SWRD_Highlands_v0_1_Batch3.csv,Research RC1

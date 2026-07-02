@@ -1,0 +1,165 @@
+﻿EvidenceID,EntityType,EntityID,FieldName,FieldValue,SourceID,EvidenceStrength,VerificationStatus,VerifiedDate,Notes
+EVD-RC2-0001,distillery,AVD-8-DOORS,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 1: 8 Doors Distillery.
+EVD-RC2-0002,distillery,AVD-ABERARGIE,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 2: Aberargie Distillery.
+EVD-RC2-0003,distillery,AVD-ABERFELDY,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 3: Aberfeldy Distillery.
+EVD-RC2-0004,distillery,DIST-SPY-0001,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 4: Aberlour Distillery.
+EVD-RC2-0005,distillery,AVD-AILSA-BAY,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 5: Ailsa Bay Distillery.
+EVD-RC2-0006,distillery,DIST-SPY-0002,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 6: Allt a’ Bhainne Distillery.
+EVD-RC2-0007,distillery,AVD-ANNANDALE,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 7: Annandale Distillery.
+EVD-RC2-0008,distillery,DIST-HLD-0034,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 8: Arbikie Distillery.
+EVD-RC2-0009,distillery,DIST-ISL-0001,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 9: Ardbeg Distillery.
+EVD-RC2-0010,distillery,AVD-ARDGOWAN,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 10: Ardgowan Distillery.
+EVD-RC2-0011,distillery,DIST-HLD-0001,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 11: Ardmore Distillery.
+EVD-RC2-0012,distillery,DIST-ISL-0002,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 12: Ardnahoe Distillery.
+EVD-RC2-0013,distillery,DIST-HLD-0002,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 13: Ardnamurchan Distillery.
+EVD-RC2-0014,distillery,AVD-ARDROSS,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 14: Ardross Distillery.
+EVD-RC2-0015,distillery,DIST-LWD-0001,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 15: Auchentoshan Distillery.
+EVD-RC2-0016,distillery,DIST-SPY-0003,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 16: Auchroisk Distillery.
+EVD-RC2-0017,distillery,DIST-SPY-0004,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 17: Aultmore Distillery.
+EVD-RC2-0018,distillery,DIST-HLD-0003,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 18: Balblair Distillery.
+EVD-RC2-0019,distillery,DIST-SPY-0005,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 19: Ballindalloch Distillery.
+EVD-RC2-0020,distillery,AVD-BALMAUD,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 20: Balmaud Distillery.
+EVD-RC2-0021,distillery,DIST-SPY-0006,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 21: Balmenach Distillery.
+EVD-RC2-0022,distillery,DIST-SPY-0007,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 22: Balvenie Distillery.
+EVD-RC2-0023,distillery,DIST-HLD-0026,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 23: Ben Nevis Distillery.
+EVD-RC2-0024,distillery,AVD-BENBECULA,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 24: Benbecula Distillery.
+EVD-RC2-0025,distillery,DIST-SPY-0008,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 25: BenRiach Distillery.
+EVD-RC2-0026,distillery,DIST-SPY-0009,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 26: Benrinnes Distillery.
+EVD-RC2-0027,distillery,DIST-SPY-0010,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 27: Benromach Distillery.
+EVD-RC2-0028,distillery,AVD-BLACKNESS-BAY,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 28: Blackness Bay Distillery.
+EVD-RC2-0029,distillery,DIST-LWD-0002,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 29: Bladnoch Distillery.
+EVD-RC2-0030,distillery,DIST-HLD-0004,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 30: Blair Athol Distillery.
+EVD-RC2-0031,distillery,AVD-BONNINGTON,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 31: Bonnington Distillery.
+EVD-RC2-0032,distillery,AVD-BORDERS,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 32: Borders Distillery.
+EVD-RC2-0033,distillery,DIST-ISL-0003,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 33: Bowmore Distillery.
+EVD-RC2-0034,distillery,DIST-SPY-0011,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 34: Braeval Distillery.
+EVD-RC2-0035,distillery,DIST-HLD-0038,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 35: Brora Distillery.
+EVD-RC2-0036,distillery,DIST-ISL-0004,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 36: Bruichladdich Distillery.
+EVD-RC2-0037,distillery,DIST-ISL-0005,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 37: Bunnahabhain Distillery.
+EVD-RC2-0038,distillery,AVD-BURN-OBENNIE,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 38: Burn o’Bennie Distillery.
+EVD-RC2-0039,distillery,DIST-SPY-0052,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 39: Cabrach Distillery.
+EVD-RC2-0040,distillery,DIST-SPY-0012,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 40: Cairn Distillery Distillery.
+EVD-RC2-0041,distillery,DIST-GRN-0001,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 41: Cameronbridge Distillery.
+EVD-RC2-0042,distillery,DIST-ISL-0006,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 42: Caol Ila Distillery.
+EVD-RC2-0043,distillery,DIST-SPY-0013,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 43: Cardhu Distillery.
+EVD-RC2-0044,distillery,AVD-CLYDESIDE,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 44: Clydeside Distillery.
+EVD-RC2-0045,distillery,DIST-HLD-0005,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 45: Clynelish Distillery.
+EVD-RC2-0046,distillery,DIST-SPY-0014,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 46: Cragganmore Distillery.
+EVD-RC2-0047,distillery,DIST-SPY-0015,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 47: Craigellachie Distillery.
+EVD-RC2-0048,distillery,DIST-LWD-0003,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 48: Daftmill Distillery.
+EVD-RC2-0049,distillery,DIST-SPY-0016,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 49: Dailuaine Distillery.
+EVD-RC2-0050,distillery,DIST-HLD-0006,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 50: Dalmore Distillery.
+EVD-RC2-0051,distillery,DIST-SPY-0017,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 51: Dalmunach Distillery.
+EVD-RC2-0052,distillery,DIST-HLD-0007,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 52: Dalwhinnie Distillery.
+EVD-RC2-0053,distillery,DIST-HLD-0008,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 53: Deanston Distillery.
+EVD-RC2-0054,distillery,AVD-DEERNESS,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 54: Deerness Distillery.
+EVD-RC2-0055,distillery,DIST-HLD-0028,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 55: Dornoch Distillery.
+EVD-RC2-0056,distillery,DIST-SPY-0018,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 56: Dufftown Distillery.
+EVD-RC2-0057,distillery,DIST-SPY-0051,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 57: Dunphail Distillery.
+EVD-RC2-0058,distillery,DIST-HLD-0009,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 58: Edradour Distillery.
+EVD-RC2-0059,distillery,AVD-FALKIRK,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 59: Falkirk Distillery.
+EVD-RC2-0060,distillery,DIST-HLD-0010,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 60: Fettercairn Distillery.
+EVD-RC2-0061,distillery,AVD-GALLOWAY,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 61: Galloway Distillery.
+EVD-RC2-0062,distillery,DIST-GRN-0002,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 62: Girvan Distillery.
+EVD-RC2-0063,distillery,AVD-GLASGOW,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 63: Glasgow Distillery.
+EVD-RC2-0064,distillery,DIST-SPY-0020,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 64: Glen Elgin Distillery.
+EVD-RC2-0065,distillery,DIST-HLD-0012,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 65: Glen Garioch Distillery.
+EVD-RC2-0066,distillery,DIST-SPY-0021,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 66: Glen Grant Distillery.
+EVD-RC2-0067,distillery,DIST-SPY-0022,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 67: Glen Keith Distillery.
+EVD-RC2-0068,distillery,DIST-SPY-0023,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 68: Glen Moray Distillery.
+EVD-RC2-0069,distillery,DIST-HLD-0013,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 69: Glen Ord Distillery.
+EVD-RC2-0070,distillery,AVD-GLEN-SCOTIA,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 70: Glen Scotia Distillery.
+EVD-RC2-0071,distillery,DIST-SPY-0019,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 71: GlenAllachie Distillery.
+EVD-RC2-0072,distillery,DIST-SPY-0025,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 72: Glenburgie Distillery.
+EVD-RC2-0073,distillery,DIST-HLD-0011,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 73: Glencadam Distillery.
+EVD-RC2-0074,distillery,AVD-GLENDRONACH,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 74: Glendronach Distillery.
+EVD-RC2-0075,distillery,DIST-SPY-0026,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 75: Glendullan Distillery.
+EVD-RC2-0076,distillery,DIST-SPY-0027,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 76: Glenfarclas Distillery.
+EVD-RC2-0077,distillery,DIST-SPY-0028,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 77: Glenfiddich Distillery.
+EVD-RC2-0078,distillery,DIST-HLD-0031,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 78: Glenglassaugh Distillery.
+EVD-RC2-0079,distillery,AVD-GLENGOYNE,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 79: Glengoyne Distillery.
+EVD-RC2-0080,distillery,AVD-GLENGYLE,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 80: Glengyle Distillery.
+EVD-RC2-0081,distillery,AVD-GLENKINCHIE,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 81: Glenkinchie Distillery.
+EVD-RC2-0082,distillery,DIST-SPY-0029,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 82: Glenlivet Distillery.
+EVD-RC2-0083,distillery,DIST-SPY-0030,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 83: Glenlossie Distillery.
+EVD-RC2-0084,distillery,DIST-HLD-0014,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 84: Glenmorangie Distillery.
+EVD-RC2-0085,distillery,DIST-SPY-0031,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 85: Glenrothes Distillery.
+EVD-RC2-0086,distillery,DIST-SPY-0032,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 86: Glentauchers Distillery.
+EVD-RC2-0087,distillery,DIST-HLD-0032,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 87: Glenturret Distillery.
+EVD-RC2-0088,distillery,DIST-HLD-0036,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 88: GlenWyvis Distillery.
+EVD-RC2-0089,distillery,DIST-ISD-0005,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 89: Highland Park Distillery.
+EVD-RC2-0090,distillery,AVD-HOLYROOD,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 90: Holyrood Distillery.
+EVD-RC2-0091,distillery,AVD-INCHDAIRNIE,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 91: InchDairnie Distillery.
+EVD-RC2-0092,distillery,DIST-SPY-0033,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 92: Inchgower Distillery.
+EVD-RC2-0093,distillery,DIST-GRN-0005,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 93: Invergordon Distillery.
+EVD-RC2-0094,distillery,AVD-ISLE-OF-HARRIS,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 94: Isle of Harris Distillery.
+EVD-RC2-0095,distillery,AVD-ISLE-OF-JURA,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 95: Isle of Jura Distillery.
+EVD-RC2-0096,distillery,AVD-ISLE-OF-RAASAY,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 96: Isle of Raasay Distillery.
+EVD-RC2-0097,distillery,AVD-ISLE-OF-TIREE,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 97: Isle of Tiree Distillery.
+EVD-RC2-0098,distillery,AVD-JACKTON,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 98: Jackton Distillery.
+EVD-RC2-0099,distillery,DIST-ISL-0007,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 99: Kilchoman Distillery.
+EVD-RC2-0100,distillery,DIST-LWD-0004,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 100: Kingsbarns Distillery.
+EVD-RC2-0101,distillery,DIST-SPY-0034,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 101: Kininvie Distillery.
+EVD-RC2-0102,distillery,DIST-SPY-0035,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 102: Knockando Distillery.
+EVD-RC2-0103,distillery,DIST-HLD-0025,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 103: Knockdhu Distillery.
+EVD-RC2-0104,distillery,DIST-ISL-0008,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 104: Lagavulin Distillery.
+EVD-RC2-0105,distillery,DIST-ISL-0012,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 105: Lagg Distillery.
+EVD-RC2-0106,distillery,DIST-ISL-0019,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 106: Laggan Bay Distillery.
+EVD-RC2-0107,distillery,DIST-ISL-0009,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 107: Laphroaig Distillery.
+EVD-RC2-0108,distillery,DIST-HLD-0035,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 108: Lindores Abbey Distillery.
+EVD-RC2-0109,distillery,DIST-SPY-0036,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 109: Linkwood Distillery.
+EVD-RC2-0110,distillery,DIST-GRN-0006,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 110: Loch Lomond Grain Distillery.
+EVD-RC2-0111,distillery,DIST-HLD-0015,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 111: Loch Lomond Malt Distillery.
+EVD-RC2-0112,distillery,DIST-HLD-0033,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 112: Lochlea Distillery.
+EVD-RC2-0113,distillery,DIST-ISD-0001,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 113: Lochranza Distillery.
+EVD-RC2-0114,distillery,DIST-SPY-0037,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 114: Longmorn Distillery.
+EVD-RC2-0115,distillery,DIST-SPY-0038,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 115: Macallan Distillery.
+EVD-RC2-0116,distillery,AVD-MACDUFF,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 116: Macduff Distillery.
+EVD-RC2-0117,distillery,DIST-SPY-0039,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 117: Mannochmore Distillery.
+EVD-RC2-0118,distillery,DIST-SPY-0040,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 118: Miltonduff Distillery.
+EVD-RC2-0119,distillery,AVD-MOFFAT,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 119: Moffat Distillery.
+EVD-RC2-0120,distillery,DIST-SPY-0041,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 120: Mortlach Distillery.
+EVD-RC2-0121,distillery,DIST-HLD-0029,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 121: Ncn'ean Distillery.
+EVD-RC2-0122,distillery,DIST-GRN-0003,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 122: North British Distillery.
+EVD-RC2-0123,distillery,AVD-NORTH-POINT,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 123: North Point Distillery.
+EVD-RC2-0124,distillery,AVD-NORTH-UIST,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 124: North Uist Distillery.
+EVD-RC2-0125,distillery,DIST-HLD-0016,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 125: Oban Distillery.
+EVD-RC2-0126,distillery,AVD-ORKNEY,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 126: Orkney Distillery.
+EVD-RC2-0127,distillery,DIST-ISL-0010,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 127: Port Ellen Distillery.
+EVD-RC2-0128,distillery,AVD-PORT-OF-LEITH,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 128: Port of Leith Distillery.
+EVD-RC2-0129,distillery,DIST-HLD-0017,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 129: Pulteney Distillery.
+EVD-RC2-0130,distillery,AVD-REIVERS,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 130: Reivers Distillery.
+EVD-RC2-0131,distillery,AVD-ROSEBANK,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 131: Rosebank Distillery.
+EVD-RC2-0132,distillery,DIST-SPY-0042,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 132: Roseisle Distillery.
+EVD-RC2-0133,distillery,DIST-HLD-0018,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 133: Royal Brackla Distillery.
+EVD-RC2-0134,distillery,DIST-HLD-0019,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 134: Royal Lochnagar Distillery.
+EVD-RC2-0135,distillery,DIST-ISD-0006,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 135: Scapa Distillery.
+EVD-RC2-0136,distillery,DIST-SPY-0043,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 136: Speyburn Distillery.
+EVD-RC2-0137,distillery,AVD-SPRINGBANK,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 137: Springbank Distillery.
+EVD-RC2-0138,distillery,DIST-GRN-0004,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 138: Starlaw Distillery.
+EVD-RC2-0139,distillery,AVD-STIRLING,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 139: Stirling Distillery.
+EVD-RC2-0140,distillery,AVD-STRATHCLYDE,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 140: Strathclyde Distillery.
+EVD-RC2-0141,distillery,AVD-STRATHEARN,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 141: Strathearn Distillery.
+EVD-RC2-0142,distillery,DIST-SPY-0045,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 142: Strathisla Distillery.
+EVD-RC2-0143,distillery,DIST-ISD-0004,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 143: Talisker Distillery.
+EVD-RC2-0144,distillery,DIST-SPY-0047,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 144: Tamdhu Distillery.
+EVD-RC2-0145,distillery,DIST-SPY-0048,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 145: Tamnavulin Distillery.
+EVD-RC2-0146,distillery,DIST-HLD-0020,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 146: Teaninich Distillery.
+EVD-RC2-0147,distillery,AVD-TOBERMORY,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 147: Tobermory Distillery.
+EVD-RC2-0148,distillery,DIST-HLD-0021,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 148: Tomatin Distillery.
+EVD-RC2-0149,distillery,DIST-SPY-0049,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 149: Tomintoul Distillery.
+EVD-RC2-0150,distillery,DIST-HLD-0024,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 150: Torabhaig Distillery.
+EVD-RC2-0151,distillery,DIST-SPY-0050,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 151: Tormore Distillery.
+EVD-RC2-0152,distillery,DIST-HLD-0022,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 152: Tullibardine Distillery.
+EVD-RC2-0153,distillery,DIST-HLD-0030,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 153: Uile-bheist Distillery.
+EVD-RC2-0154,distillery,DIST-HLD-0023,operating_status,Operating,SRC-SWA-APRIL-2026,5,gold,2026-07-02,SWA April 2026 operating list item 154: Wolfburn Distillery.
+EVD-RC2-0155,distillery,AVD-8-DOORS,official_name,8 Doors Distillery,SRC-8DOORS-OFFICIAL,5,verified,2026-07-02,Official site
+EVD-RC2-0156,distillery,AVD-8-DOORS,address,John O’Groats KW1 4YR,SRC-8DOORS-OFFICIAL,5,verified,2026-07-02,Official footer/address
+EVD-RC2-0157,distillery,AVD-8-DOORS,visitor_centre,Yes,SRC-8DOORS-OFFICIAL,5,verified,2026-07-02,Official tours/visit us
+EVD-RC2-0158,distillery,AVD-CLYDESIDE,official_name,The Clydeside Distillery,SRC-CLYDESIDE-OFFICIAL,5,verified,2026-07-02,Official site
+EVD-RC2-0159,distillery,AVD-CLYDESIDE,address,"100 Stobcross Road, Glasgow G3 8QQ",SRC-CLYDESIDE-OFFICIAL,5,verified,2026-07-02,Official footer
+EVD-RC2-0160,distillery,AVD-CLYDESIDE,water_source,Loch Katrine,SRC-CLYDESIDE-WHISKY,5,verified,2026-07-02,Official whisky page
+EVD-RC2-0161,distillery,AVD-CLYDESIDE,visitor_centre,Yes,SRC-CLYDESIDE-OFFICIAL,5,verified,2026-07-02,Official tour information
+EVD-RC2-0162,distillery,AVD-ROSEBANK,status,Operating/reopened,SRC-ROSEBANK-FAQ,5,verified,2026-07-02,Official FAQ search result confirms reopened June 2024
+EVD-RC2-0163,distillery,AVD-ROSEBANK,owner,Ian Macleod Distillers,SRC-ROSEBANK-OFFICIAL,5,verified,2026-07-02,Official Great Revival page says Rosebank was rescued by Ian Macleod Distillers in 2017
+EVD-RC2-0164,distillery,AVD-AUCHENTOSHAN,address,"Great Western Rd, Clydebank G81 4SJ",SRC-AUCHENTOSHAN-CLYDEBANK,5,verified,2026-07-02,Clydebank clarification
